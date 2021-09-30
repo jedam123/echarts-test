@@ -1,0 +1,6453 @@
+[
+  {
+    "date": "2020-02-18",
+    "info": {
+      "sent": 80,
+      "bounce": 18,
+      "open24": 3,
+      "replies": 1,
+      "interest": 1,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2020-02-18"
+    }
+  },
+  {
+    "date": "2020-02-19",
+    "info": {
+      "sent": 100,
+      "bounce": 34,
+      "open24": 6,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2020-02-19"
+    }
+  },
+  {
+    "date": "2020-02-20",
+    "info": {
+      "sent": 176,
+      "bounce": 40,
+      "open24": 17,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2020-02-20"
+    }
+  },
+  {
+    "date": "2020-02-21",
+    "info": {
+      "sent": 199,
+      "bounce": 5,
+      "open24": 8,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2020-02-21"
+    }
+  },
+  {
+    "date": "2020-02-22",
+    "info": {
+      "sent": 337,
+      "bounce": 9,
+      "open24": 32,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2020-02-22"
+    }
+  },
+
+  {
+    "date": "2020-02-23",
+    "info": {
+      "sent": 400,
+      "bounce": 13,
+      "open24": 16,
+      "replies": 1,
+      "interest": 1,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2020-02-23"
+    }
+  },
+
+  {
+    "date": "2020-02-24",
+    "info": {
+      "sent": 700,
+      "bounce": 25,
+      "open24": 65,
+      "replies": 5,
+      "interest": 3,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-02-24"
+    }
+  },
+
+  {
+    "date": "2020-02-25",
+    "info": {
+      "sent": 914,
+      "bounce": 47,
+      "open24": 112,
+      "replies": 2,
+      "interest": 1,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-02-25"
+    }
+  },
+  {
+    "date": "2020-02-26",
+    "info": {
+      "sent": 1050,
+      "bounce": 71,
+      "open24": 222,
+      "replies": 12,
+      "interest": 3,
+      "negative": 3,
+      "neutral": 5,
+      "dt": "2020-02-26"
+    }
+  },
+  {
+    "date": "2020-02-27",
+    "info": {
+      "sent": 1034,
+      "bounce": 61,
+      "open24": 178,
+      "replies": 4,
+      "interest": 1,
+      "negative": 2,
+      "neutral": 1,
+      "dt": "2020-02-27"
+    }
+  },
+  {
+    "date": "2020-02-28",
+    "info": {
+      "sent": 1476,
+      "bounce": 94,
+      "open24": 186,
+      "replies": 8,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-02-28"
+    }
+  },
+  {
+    "date": "2020-02-29",
+    "info": {
+      "sent": 1600,
+      "bounce": 96,
+      "open24": 143,
+      "replies": 4,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 2,
+      "dt": "2020-02-29"
+    }
+  },
+  {
+    "date": "2020-03-01",
+    "info": {
+      "sent": 1950,
+      "bounce": 135,
+      "open24": 237,
+      "replies": 5,
+      "interest": 2,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-03-01"
+    }
+  },
+  {
+    "date": "2020-03-02",
+    "info": {
+      "sent": 1795,
+      "bounce": 129,
+      "open24": 280,
+      "replies": 6,
+      "interest": 3,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-03-02"
+    }
+  },
+  {
+    "date": "2020-03-03",
+    "info": {
+      "sent": 1000,
+      "bounce": 71,
+      "open24": 192,
+      "replies": 8,
+      "interest": 2,
+      "negative": 3,
+      "neutral": 1,
+      "dt": "2020-03-03"
+    }
+  },
+  {
+    "date": "2020-03-04",
+    "info": {
+      "sent": 1000,
+      "bounce": 71,
+      "open24": 125,
+      "replies": 9,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 3,
+      "dt": "2020-03-04"
+    }
+  },
+  {
+    "date": "2020-03-05",
+    "info": {
+      "sent": 1000,
+      "bounce": 101,
+      "open24": 155,
+      "replies": 5,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-03-05"
+    }
+  },
+  {
+    "date": "2020-03-06",
+    "info": {
+      "sent": 1000,
+      "bounce": 89,
+      "open24": 170,
+      "replies": 8,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 3,
+      "dt": "2020-03-06"
+    }
+  },
+  {
+    "date": "2020-03-07",
+    "info": {
+      "sent": 1000,
+      "bounce": 106,
+      "open24": 182,
+      "replies": 5,
+      "interest": 1,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-03-07"
+    }
+  },
+  {
+    "date": "2020-03-08",
+    "info": {
+      "sent": 1000,
+      "bounce": 92,
+      "open24": 151,
+      "replies": 4,
+      "interest": 2,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2020-03-08"
+    }
+  },
+  {
+    "date": "2020-03-09",
+    "info": {
+      "sent": 1000,
+      "bounce": 92,
+      "open24": 162,
+      "replies": 8,
+      "interest": 0,
+      "negative": 6,
+      "neutral": 2,
+      "dt": "2020-03-09"
+    }
+  },
+  {
+    "date": "2020-03-10",
+    "info": {
+      "sent": 893,
+      "bounce": 84,
+      "open24": 137,
+      "replies": 4,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 1,
+      "dt": "2020-03-10"
+    }
+  },
+  {
+    "date": "2020-03-11",
+    "info": {
+      "sent": 1000,
+      "bounce": 83,
+      "open24": 201,
+      "replies": 9,
+      "interest": 2,
+      "negative": 3,
+      "neutral": 2,
+      "dt": "2020-03-11"
+    }
+  },
+  {
+    "date": "2020-03-12",
+    "info": {
+      "sent": 996,
+      "bounce": 85,
+      "open24": 183,
+      "replies": 6,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-03-12"
+    }
+  },
+  {
+    "date": "2020-03-13",
+    "info": {
+      "sent": 1000,
+      "bounce": 97,
+      "open24": 174,
+      "replies": 2,
+      "interest": 1,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-03-13"
+    }
+  },
+  {
+    "date": "2020-03-14",
+    "info": {
+      "sent": 1000,
+      "bounce": 95,
+      "open24": 185,
+      "replies": 5,
+      "interest": 1,
+      "negative": 1,
+      "neutral": 2,
+      "dt": "2020-03-14"
+    }
+  },
+  {
+    "date": "2020-03-15",
+    "info": {
+      "sent": 1000,
+      "bounce": 82,
+      "open24": 227,
+      "replies": 7,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 3,
+      "dt": "2020-03-15"
+    }
+  },
+  {
+    "date": "2020-03-16",
+    "info": {
+      "sent": 936,
+      "bounce": 80,
+      "open24": 206,
+      "replies": 7,
+      "interest": 1,
+      "negative": 1,
+      "neutral": 4,
+      "dt": "2020-03-16"
+    }
+  },
+  {
+    "date": "2020-03-17",
+    "info": {
+      "sent": 1000,
+      "bounce": 95,
+      "open24": 151,
+      "replies": 7,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-03-17"
+    }
+  },
+  {
+    "date": "2020-03-18",
+    "info": {
+      "sent": 1000,
+      "bounce": 105,
+      "open24": 158,
+      "replies": 4,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-03-18"
+    }
+  },
+  {
+    "date": "2020-03-19",
+    "info": {
+      "sent": 816,
+      "bounce": 87,
+      "open24": 129,
+      "replies": 6,
+      "interest": 2,
+      "negative": 2,
+      "neutral": 1,
+      "dt": "2020-03-19"
+    }
+  },
+  {
+    "date": "2020-03-20",
+    "info": {
+      "sent": 0,
+      "bounce": 10,
+      "open24": 23,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2020-03-20"
+    }
+  },
+  {
+    "date": "2020-05-14",
+    "info": {
+      "sent": 1000,
+      "bounce": 86,
+      "open24": 179,
+      "replies": 9,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 2,
+      "dt": "2020-05-14"
+    }
+  },
+  {
+    "date": "2020-05-15",
+    "info": {
+      "sent": 1000,
+      "bounce": 111,
+      "open24": 154,
+      "replies": 11,
+      "interest": 4,
+      "negative": 3,
+      "neutral": 1,
+      "dt": "2020-05-15"
+    }
+  },
+  {
+    "date": "2020-05-16",
+    "info": {
+      "sent": 1000,
+      "bounce": 108,
+      "open24": 123,
+      "replies": 5,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-05-16"
+    }
+  },
+  {
+    "date": "2020-05-17",
+    "info": {
+      "sent": 1000,
+      "bounce": 116,
+      "open24": 143,
+      "replies": 3,
+      "interest": 1,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2020-05-17"
+    }
+  },
+  {
+    "date": "2020-05-18",
+    "info": {
+      "sent": 1000,
+      "bounce": 119,
+      "open24": 162,
+      "replies": 9,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-05-18"
+    }
+  },
+  {
+    "date": "2020-05-19",
+    "info": {
+      "sent": 1000,
+      "bounce": 106,
+      "open24": 143,
+      "replies": 9,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-05-19"
+    }
+  },
+  {
+    "date": "2020-05-20",
+    "info": {
+      "sent": 1000,
+      "bounce": 112,
+      "open24": 149,
+      "replies": 13,
+      "interest": 5,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2020-05-20"
+    }
+  },
+  {
+    "date": "2020-05-21",
+    "info": {
+      "sent": 1000,
+      "bounce": 98,
+      "open24": 173,
+      "replies": 5,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-05-21"
+    }
+  },
+  {
+    "date": "2020-05-22",
+    "info": {
+      "sent": 1000,
+      "bounce": 113,
+      "open24": 184,
+      "replies": 3,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-05-22"
+    }
+  },
+  {
+    "date": "2020-05-23",
+    "info": {
+      "sent": 1000,
+      "bounce": 102,
+      "open24": 206,
+      "replies": 5,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 2,
+      "dt": "2020-05-23"
+    }
+  },
+  {
+    "date": "2020-05-24",
+    "info": {
+      "sent": 1000,
+      "bounce": 101,
+      "open24": 197,
+      "replies": 2,
+      "interest": 1,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-05-24"
+    }
+  },
+  {
+    "date": "2020-05-25",
+    "info": {
+      "sent": 1000,
+      "bounce": 120,
+      "open24": 203,
+      "replies": 9,
+      "interest": 2,
+      "negative": 5,
+      "neutral": 2,
+      "dt": "2020-05-25"
+    }
+  },
+  {
+    "date": "2020-05-26",
+    "info": {
+      "sent": 1000,
+      "bounce": 109,
+      "open24": 214,
+      "replies": 10,
+      "interest": 1,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2020-05-26"
+    }
+  },
+  {
+    "date": "2020-05-27",
+    "info": {
+      "sent": 1000,
+      "bounce": 132,
+      "open24": 199,
+      "replies": 10,
+      "interest": 0,
+      "negative": 6,
+      "neutral": 3,
+      "dt": "2020-05-27"
+    }
+  },
+  {
+    "date": "2020-05-28",
+    "info": {
+      "sent": 1000,
+      "bounce": 103,
+      "open24": 229,
+      "replies": 8,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 1,
+      "dt": "2020-05-28"
+    }
+  },
+  {
+    "date": "2020-05-29",
+    "info": {
+      "sent": 1000,
+      "bounce": 117,
+      "open24": 178,
+      "replies": 12,
+      "interest": 3,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2020-05-29"
+    }
+  },
+  {
+    "date": "2020-05-30",
+    "info": {
+      "sent": 1000,
+      "bounce": 124,
+      "open24": 154,
+      "replies": 6,
+      "interest": 1,
+      "negative": 2,
+      "neutral": 1,
+      "dt": "2020-05-30"
+    }
+  },
+  {
+    "date": "2020-05-31",
+    "info": {
+      "sent": 1000,
+      "bounce": 121,
+      "open24": 154,
+      "replies": 9,
+      "interest": 1,
+      "negative": 5,
+      "neutral": 0,
+      "dt": "2020-05-31"
+    }
+  },
+  {
+    "date": "2020-06-01",
+    "info": {
+      "sent": 1000,
+      "bounce": 106,
+      "open24": 230,
+      "replies": 6,
+      "interest": 1,
+      "negative": 3,
+      "neutral": 1,
+      "dt": "2020-06-01"
+    }
+  },
+  {
+    "date": "2020-06-02",
+    "info": {
+      "sent": 1000,
+      "bounce": 120,
+      "open24": 173,
+      "replies": 9,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2020-06-02"
+    }
+  },
+  {
+    "date": "2020-06-03",
+    "info": {
+      "sent": 1000,
+      "bounce": 98,
+      "open24": 177,
+      "replies": 11,
+      "interest": 3,
+      "negative": 7,
+      "neutral": 0,
+      "dt": "2020-06-03"
+    }
+  },
+  {
+    "date": "2020-06-04",
+    "info": {
+      "sent": 1000,
+      "bounce": 116,
+      "open24": 191,
+      "replies": 7,
+      "interest": 0,
+      "negative": 5,
+      "neutral": 2,
+      "dt": "2020-06-04"
+    }
+  },
+  {
+    "date": "2020-06-05",
+    "info": {
+      "sent": 1000,
+      "bounce": 95,
+      "open24": 171,
+      "replies": 8,
+      "interest": 2,
+      "negative": 2,
+      "neutral": 3,
+      "dt": "2020-06-05"
+    }
+  },
+  {
+    "date": "2020-06-06",
+    "info": {
+      "sent": 1000,
+      "bounce": 107,
+      "open24": 197,
+      "replies": 6,
+      "interest": 1,
+      "negative": 2,
+      "neutral": 1,
+      "dt": "2020-06-06"
+    }
+  },
+  {
+    "date": "2020-06-07",
+    "info": {
+      "sent": 1000,
+      "bounce": 105,
+      "open24": 179,
+      "replies": 3,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-06-07"
+    }
+  },
+  {
+    "date": "2020-06-08",
+    "info": {
+      "sent": 1000,
+      "bounce": 112,
+      "open24": 201,
+      "replies": 8,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2020-06-08"
+    }
+  },
+  {
+    "date": "2020-06-09",
+    "info": {
+      "sent": 1000,
+      "bounce": 122,
+      "open24": 183,
+      "replies": 9,
+      "interest": 2,
+      "negative": 5,
+      "neutral": 2,
+      "dt": "2020-06-09"
+    }
+  },
+  {
+    "date": "2020-06-10",
+    "info": {
+      "sent": 1000,
+      "bounce": 113,
+      "open24": 211,
+      "replies": 9,
+      "interest": 0,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2020-06-10"
+    }
+  },
+  {
+    "date": "2020-06-11",
+    "info": {
+      "sent": 1000,
+      "bounce": 128,
+      "open24": 196,
+      "replies": 14,
+      "interest": 1,
+      "negative": 6,
+      "neutral": 6,
+      "dt": "2020-06-11"
+    }
+  },
+  {
+    "date": "2020-06-12",
+    "info": {
+      "sent": 1050,
+      "bounce": 127,
+      "open24": 243,
+      "replies": 15,
+      "interest": 2,
+      "negative": 9,
+      "neutral": 4,
+      "dt": "2020-06-12"
+    }
+  },
+  {
+    "date": "2020-06-13",
+    "info": {
+      "sent": 1050,
+      "bounce": 122,
+      "open24": 163,
+      "replies": 8,
+      "interest": 0,
+      "negative": 5,
+      "neutral": 1,
+      "dt": "2020-06-13"
+    }
+  },
+  {
+    "date": "2020-06-14",
+    "info": {
+      "sent": 1100,
+      "bounce": 124,
+      "open24": 187,
+      "replies": 7,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-06-14"
+    }
+  },
+  {
+    "date": "2020-06-15",
+    "info": {
+      "sent": 1100,
+      "bounce": 105,
+      "open24": 204,
+      "replies": 6,
+      "interest": 3,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-06-15"
+    }
+  },
+  {
+    "date": "2020-06-16",
+    "info": {
+      "sent": 1200,
+      "bounce": 106,
+      "open24": 179,
+      "replies": 5,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 1,
+      "dt": "2020-06-16"
+    }
+  },
+  {
+    "date": "2020-06-17",
+    "info": {
+      "sent": 1200,
+      "bounce": 142,
+      "open24": 163,
+      "replies": 3,
+      "interest": 3,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2020-06-17"
+    }
+  },
+  {
+    "date": "2020-06-18",
+    "info": {
+      "sent": 1400,
+      "bounce": 144,
+      "open24": 239,
+      "replies": 6,
+      "interest": 0,
+      "negative": 5,
+      "neutral": 1,
+      "dt": "2020-06-18"
+    }
+  },
+  {
+    "date": "2020-06-19",
+    "info": {
+      "sent": 1400,
+      "bounce": 160,
+      "open24": 210,
+      "replies": 14,
+      "interest": 2,
+      "negative": 7,
+      "neutral": 3,
+      "dt": "2020-06-19"
+    }
+  },
+  {
+    "date": "2020-06-20",
+    "info": {
+      "sent": 1600,
+      "bounce": 167,
+      "open24": 207,
+      "replies": 4,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-06-20"
+    }
+  },
+  {
+    "date": "2020-06-21",
+    "info": {
+      "sent": 1600,
+      "bounce": 157,
+      "open24": 266,
+      "replies": 6,
+      "interest": 1,
+      "negative": 3,
+      "neutral": 2,
+      "dt": "2020-06-21"
+    }
+  },
+  {
+    "date": "2020-06-22",
+    "info": {
+      "sent": 1800,
+      "bounce": 218,
+      "open24": 317,
+      "replies": 19,
+      "interest": 2,
+      "negative": 12,
+      "neutral": 1,
+      "dt": "2020-06-22"
+    }
+  },
+  {
+    "date": "2020-06-23",
+    "info": {
+      "sent": 1800,
+      "bounce": 216,
+      "open24": 284,
+      "replies": 11,
+      "interest": 2,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2020-06-23"
+    }
+  },
+  {
+    "date": "2020-06-24",
+    "info": {
+      "sent": 2000,
+      "bounce": 214,
+      "open24": 298,
+      "replies": 17,
+      "interest": 4,
+      "negative": 8,
+      "neutral": 1,
+      "dt": "2020-06-24"
+    }
+  },
+  {
+    "date": "2020-06-25",
+    "info": {
+      "sent": 2000,
+      "bounce": 232,
+      "open24": 325,
+      "replies": 11,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 2,
+      "dt": "2020-06-25"
+    }
+  },
+  {
+    "date": "2020-06-26",
+    "info": {
+      "sent": 2000,
+      "bounce": 227,
+      "open24": 315,
+      "replies": 15,
+      "interest": 2,
+      "negative": 10,
+      "neutral": 2,
+      "dt": "2020-06-26"
+    }
+  },
+  {
+    "date": "2020-06-27",
+    "info": {
+      "sent": 2000,
+      "bounce": 219,
+      "open24": 280,
+      "replies": 16,
+      "interest": 3,
+      "negative": 5,
+      "neutral": 2,
+      "dt": "2020-06-27"
+    }
+  },
+  {
+    "date": "2020-06-28",
+    "info": {
+      "sent": 2000,
+      "bounce": 239,
+      "open24": 357,
+      "replies": 13,
+      "interest": 2,
+      "negative": 6,
+      "neutral": 2,
+      "dt": "2020-06-28"
+    }
+  },
+  {
+    "date": "2020-06-29",
+    "info": {
+      "sent": 2000,
+      "bounce": 230,
+      "open24": 348,
+      "replies": 10,
+      "interest": 0,
+      "negative": 8,
+      "neutral": 0,
+      "dt": "2020-06-29"
+    }
+  },
+  {
+    "date": "2020-06-30",
+    "info": {
+      "sent": 2000,
+      "bounce": 235,
+      "open24": 314,
+      "replies": 12,
+      "interest": 1,
+      "negative": 6,
+      "neutral": 3,
+      "dt": "2020-06-30"
+    }
+  },
+  {
+    "date": "2020-07-01",
+    "info": {
+      "sent": 2000,
+      "bounce": 262,
+      "open24": 288,
+      "replies": 14,
+      "interest": 2,
+      "negative": 10,
+      "neutral": 1,
+      "dt": "2020-07-01"
+    }
+  },
+  {
+    "date": "2020-07-02",
+    "info": {
+      "sent": 2000,
+      "bounce": 1265,
+      "open24": 136,
+      "replies": 3,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-07-02"
+    }
+  },
+  {
+    "date": "2020-07-03",
+    "info": {
+      "sent": 2000,
+      "bounce": 1607,
+      "open24": 7,
+      "replies": 1,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-07-03"
+    }
+  },
+  {
+    "date": "2020-07-04",
+    "info": {
+      "sent": 2000,
+      "bounce": 1563,
+      "open24": 0,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2020-07-04"
+    }
+  },
+  {
+    "date": "2020-07-05",
+    "info": {
+      "sent": 2000,
+      "bounce": 1584,
+      "open24": 0,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2020-07-05"
+    }
+  },
+  {
+    "date": "2020-07-06",
+    "info": {
+      "sent": 1553,
+      "bounce": 1295,
+      "open24": 0,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2020-07-06"
+    }
+  },
+  {
+    "date": "2020-07-07",
+    "info": {
+      "sent": 258,
+      "bounce": 182,
+      "open24": 4,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2020-07-07"
+    }
+  },
+  {
+    "date": "2020-07-08",
+    "info": {
+      "sent": 125,
+      "bounce": 15,
+      "open24": 13,
+      "replies": 1,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-07-08"
+    }
+  },
+  {
+    "date": "2020-07-09",
+    "info": {
+      "sent": 250,
+      "bounce": 38,
+      "open24": 33,
+      "replies": 2,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2020-07-09"
+    }
+  },
+  {
+    "date": "2020-07-10",
+    "info": {
+      "sent": 500,
+      "bounce": 61,
+      "open24": 50,
+      "replies": 2,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 1,
+      "dt": "2020-07-10"
+    }
+  },
+  {
+    "date": "2020-07-11",
+    "info": {
+      "sent": 796,
+      "bounce": 82,
+      "open24": 81,
+      "replies": 2,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-07-11"
+    }
+  },
+  {
+    "date": "2020-07-12",
+    "info": {
+      "sent": 1100,
+      "bounce": 146,
+      "open24": 141,
+      "replies": 4,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-07-12"
+    }
+  },
+  {
+    "date": "2020-07-13",
+    "info": {
+      "sent": 1900,
+      "bounce": 208,
+      "open24": 248,
+      "replies": 14,
+      "interest": 1,
+      "negative": 7,
+      "neutral": 3,
+      "dt": "2020-07-13"
+    }
+  },
+  {
+    "date": "2020-07-14",
+    "info": {
+      "sent": 2000,
+      "bounce": 214,
+      "open24": 258,
+      "replies": 13,
+      "interest": 1,
+      "negative": 7,
+      "neutral": 3,
+      "dt": "2020-07-14"
+    }
+  },
+  {
+    "date": "2020-07-15",
+    "info": {
+      "sent": 2000,
+      "bounce": 221,
+      "open24": 258,
+      "replies": 11,
+      "interest": 3,
+      "negative": 3,
+      "neutral": 4,
+      "dt": "2020-07-15"
+    }
+  },
+  {
+    "date": "2020-07-16",
+    "info": {
+      "sent": 2000,
+      "bounce": 208,
+      "open24": 281,
+      "replies": 9,
+      "interest": 1,
+      "negative": 6,
+      "neutral": 2,
+      "dt": "2020-07-16"
+    }
+  },
+  {
+    "date": "2020-07-17",
+    "info": {
+      "sent": 2000,
+      "bounce": 159,
+      "open24": 287,
+      "replies": 13,
+      "interest": 2,
+      "negative": 6,
+      "neutral": 0,
+      "dt": "2020-07-17"
+    }
+  },
+  {
+    "date": "2020-07-18",
+    "info": {
+      "sent": 2000,
+      "bounce": 163,
+      "open24": 284,
+      "replies": 9,
+      "interest": 0,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2020-07-18"
+    }
+  },
+  {
+    "date": "2020-07-19",
+    "info": {
+      "sent": 2000,
+      "bounce": 162,
+      "open24": 353,
+      "replies": 13,
+      "interest": 3,
+      "negative": 4,
+      "neutral": 2,
+      "dt": "2020-07-19"
+    }
+  },
+  {
+    "date": "2020-07-20",
+    "info": {
+      "sent": 1512,
+      "bounce": 180,
+      "open24": 350,
+      "replies": 18,
+      "interest": 6,
+      "negative": 9,
+      "neutral": 0,
+      "dt": "2020-07-20"
+    }
+  },
+  {
+    "date": "2020-07-21",
+    "info": {
+      "sent": 1500,
+      "bounce": 162,
+      "open24": 206,
+      "replies": 8,
+      "interest": 4,
+      "negative": 2,
+      "neutral": 2,
+      "dt": "2020-07-21"
+    }
+  },
+  {
+    "date": "2020-07-22",
+    "info": {
+      "sent": 1500,
+      "bounce": 160,
+      "open24": 190,
+      "replies": 10,
+      "interest": 2,
+      "negative": 5,
+      "neutral": 1,
+      "dt": "2020-07-22"
+    }
+  },
+  {
+    "date": "2020-07-23",
+    "info": {
+      "sent": 1500,
+      "bounce": 162,
+      "open24": 221,
+      "replies": 11,
+      "interest": 2,
+      "negative": 5,
+      "neutral": 3,
+      "dt": "2020-07-23"
+    }
+  },
+  {
+    "date": "2020-07-24",
+    "info": {
+      "sent": 1500,
+      "bounce": 127,
+      "open24": 216,
+      "replies": 7,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-07-24"
+    }
+  },
+  {
+    "date": "2020-07-25",
+    "info": {
+      "sent": 1500,
+      "bounce": 184,
+      "open24": 169,
+      "replies": 5,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-07-25"
+    }
+  },
+  {
+    "date": "2020-07-26",
+    "info": {
+      "sent": 1500,
+      "bounce": 138,
+      "open24": 238,
+      "replies": 7,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2020-07-26"
+    }
+  },
+  {
+    "date": "2020-07-27",
+    "info": {
+      "sent": 2000,
+      "bounce": 253,
+      "open24": 321,
+      "replies": 12,
+      "interest": 1,
+      "negative": 7,
+      "neutral": 2,
+      "dt": "2020-07-27"
+    }
+  },
+  {
+    "date": "2020-07-28",
+    "info": {
+      "sent": 2000,
+      "bounce": 265,
+      "open24": 311,
+      "replies": 11,
+      "interest": 1,
+      "negative": 8,
+      "neutral": 1,
+      "dt": "2020-07-28"
+    }
+  },
+  {
+    "date": "2020-07-29",
+    "info": {
+      "sent": 2000,
+      "bounce": 205,
+      "open24": 316,
+      "replies": 13,
+      "interest": 1,
+      "negative": 8,
+      "neutral": 2,
+      "dt": "2020-07-29"
+    }
+  },
+  {
+    "date": "2020-07-30",
+    "info": {
+      "sent": 2000,
+      "bounce": 218,
+      "open24": 275,
+      "replies": 4,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-07-30"
+    }
+  },
+  {
+    "date": "2020-07-31",
+    "info": {
+      "sent": 1667,
+      "bounce": 169,
+      "open24": 233,
+      "replies": 7,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2020-07-31"
+    }
+  },
+  {
+    "date": "2020-08-01",
+    "info": {
+      "sent": 1500,
+      "bounce": 143,
+      "open24": 173,
+      "replies": 7,
+      "interest": 0,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2020-08-01"
+    }
+  },
+  {
+    "date": "2020-08-02",
+    "info": {
+      "sent": 1500,
+      "bounce": 162,
+      "open24": 236,
+      "replies": 4,
+      "interest": 1,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2020-08-02"
+    }
+  },
+  {
+    "date": "2020-08-03",
+    "info": {
+      "sent": 1076,
+      "bounce": 183,
+      "open24": 231,
+      "replies": 10,
+      "interest": 1,
+      "negative": 5,
+      "neutral": 3,
+      "dt": "2020-08-03"
+    }
+  },
+  {
+    "date": "2020-08-04",
+    "info": {
+      "sent": 924,
+      "bounce": 178,
+      "open24": 187,
+      "replies": 7,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 2,
+      "dt": "2020-08-04"
+    }
+  },
+  {
+    "date": "2020-08-05",
+    "info": {
+      "sent": 1500,
+      "bounce": 295,
+      "open24": 193,
+      "replies": 7,
+      "interest": 1,
+      "negative": 5,
+      "neutral": 1,
+      "dt": "2020-08-05"
+    }
+  },
+  {
+    "date": "2020-08-06",
+    "info": {
+      "sent": 1500,
+      "bounce": 206,
+      "open24": 163,
+      "replies": 7,
+      "interest": 3,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-08-06"
+    }
+  },
+  {
+    "date": "2020-08-07",
+    "info": {
+      "sent": 1500,
+      "bounce": 224,
+      "open24": 138,
+      "replies": 12,
+      "interest": 2,
+      "negative": 5,
+      "neutral": 2,
+      "dt": "2020-08-07"
+    }
+  },
+  {
+    "date": "2020-08-08",
+    "info": {
+      "sent": 1500,
+      "bounce": 296,
+      "open24": 184,
+      "replies": 2,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-08-08"
+    }
+  },
+  {
+    "date": "2020-08-09",
+    "info": {
+      "sent": 1500,
+      "bounce": 307,
+      "open24": 188,
+      "replies": 9,
+      "interest": 1,
+      "negative": 7,
+      "neutral": 0,
+      "dt": "2020-08-09"
+    }
+  },
+  {
+    "date": "2020-08-10",
+    "info": {
+      "sent": 1500,
+      "bounce": 338,
+      "open24": 244,
+      "replies": 12,
+      "interest": 3,
+      "negative": 7,
+      "neutral": 2,
+      "dt": "2020-08-10"
+    }
+  },
+  {
+    "date": "2020-08-11",
+    "info": {
+      "sent": 1500,
+      "bounce": 286,
+      "open24": 134,
+      "replies": 5,
+      "interest": 0,
+      "negative": 5,
+      "neutral": 0,
+      "dt": "2020-08-11"
+    }
+  },
+  {
+    "date": "2020-08-12",
+    "info": {
+      "sent": 1500,
+      "bounce": 307,
+      "open24": 150,
+      "replies": 8,
+      "interest": 0,
+      "negative": 7,
+      "neutral": 1,
+      "dt": "2020-08-12"
+    }
+  },
+  {
+    "date": "2020-08-13",
+    "info": {
+      "sent": 1500,
+      "bounce": 228,
+      "open24": 145,
+      "replies": 6,
+      "interest": 0,
+      "negative": 5,
+      "neutral": 0,
+      "dt": "2020-08-13"
+    }
+  },
+  {
+    "date": "2020-08-14",
+    "info": {
+      "sent": 1619,
+      "bounce": 327,
+      "open24": 147,
+      "replies": 3,
+      "interest": 1,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2020-08-14"
+    }
+  },
+  {
+    "date": "2020-08-15",
+    "info": {
+      "sent": 2000,
+      "bounce": 329,
+      "open24": 125,
+      "replies": 4,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-08-15"
+    }
+  },
+  {
+    "date": "2020-08-16",
+    "info": {
+      "sent": 2000,
+      "bounce": 274,
+      "open24": 251,
+      "replies": 12,
+      "interest": 3,
+      "negative": 7,
+      "neutral": 2,
+      "dt": "2020-08-16"
+    }
+  },
+  {
+    "date": "2020-08-17",
+    "info": {
+      "sent": 2000,
+      "bounce": 441,
+      "open24": 234,
+      "replies": 12,
+      "interest": 0,
+      "negative": 10,
+      "neutral": 1,
+      "dt": "2020-08-17"
+    }
+  },
+  {
+    "date": "2020-08-18",
+    "info": {
+      "sent": 2000,
+      "bounce": 342,
+      "open24": 185,
+      "replies": 9,
+      "interest": 1,
+      "negative": 6,
+      "neutral": 0,
+      "dt": "2020-08-18"
+    }
+  },
+  {
+    "date": "2020-08-19",
+    "info": {
+      "sent": 2000,
+      "bounce": 404,
+      "open24": 151,
+      "replies": 14,
+      "interest": 1,
+      "negative": 10,
+      "neutral": 3,
+      "dt": "2020-08-19"
+    }
+  },
+  {
+    "date": "2020-08-20",
+    "info": {
+      "sent": 1647,
+      "bounce": 309,
+      "open24": 140,
+      "replies": 5,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-08-20"
+    }
+  },
+  {
+    "date": "2020-08-21",
+    "info": {
+      "sent": 1500,
+      "bounce": 223,
+      "open24": 106,
+      "replies": 8,
+      "interest": 1,
+      "negative": 7,
+      "neutral": 0,
+      "dt": "2020-08-21"
+    }
+  },
+  {
+    "date": "2020-08-22",
+    "info": {
+      "sent": 1500,
+      "bounce": 208,
+      "open24": 117,
+      "replies": 6,
+      "interest": 1,
+      "negative": 5,
+      "neutral": 0,
+      "dt": "2020-08-22"
+    }
+  },
+  {
+    "date": "2020-08-23",
+    "info": {
+      "sent": 1500,
+      "bounce": 240,
+      "open24": 194,
+      "replies": 5,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-08-23"
+    }
+  },
+  {
+    "date": "2020-08-24",
+    "info": {
+      "sent": 1500,
+      "bounce": 305,
+      "open24": 202,
+      "replies": 17,
+      "interest": 2,
+      "negative": 13,
+      "neutral": 2,
+      "dt": "2020-08-24"
+    }
+  },
+  {
+    "date": "2020-08-25",
+    "info": {
+      "sent": 1500,
+      "bounce": 214,
+      "open24": 141,
+      "replies": 9,
+      "interest": 2,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2020-08-25"
+    }
+  },
+  {
+    "date": "2020-08-26",
+    "info": {
+      "sent": 1500,
+      "bounce": 242,
+      "open24": 117,
+      "replies": 13,
+      "interest": 2,
+      "negative": 11,
+      "neutral": 0,
+      "dt": "2020-08-26"
+    }
+  },
+  {
+    "date": "2020-08-27",
+    "info": {
+      "sent": 1500,
+      "bounce": 287,
+      "open24": 94,
+      "replies": 2,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-08-27"
+    }
+  },
+  {
+    "date": "2020-08-28",
+    "info": {
+      "sent": 1500,
+      "bounce": 405,
+      "open24": 95,
+      "replies": 7,
+      "interest": 0,
+      "negative": 5,
+      "neutral": 1,
+      "dt": "2020-08-28"
+    }
+  },
+  {
+    "date": "2020-08-29",
+    "info": {
+      "sent": 1500,
+      "bounce": 225,
+      "open24": 136,
+      "replies": 1,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-08-29"
+    }
+  },
+  {
+    "date": "2020-08-30",
+    "info": {
+      "sent": 1207,
+      "bounce": 187,
+      "open24": 189,
+      "replies": 1,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 1,
+      "dt": "2020-08-30"
+    }
+  },
+  {
+    "date": "2020-08-31",
+    "info": {
+      "sent": 1000,
+      "bounce": 381,
+      "open24": 142,
+      "replies": 6,
+      "interest": 0,
+      "negative": 6,
+      "neutral": 0,
+      "dt": "2020-08-31"
+    }
+  },
+  {
+    "date": "2020-09-01",
+    "info": {
+      "sent": 1000,
+      "bounce": 121,
+      "open24": 90,
+      "replies": 3,
+      "interest": 1,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-09-01"
+    }
+  },
+  {
+    "date": "2020-09-02",
+    "info": {
+      "sent": 1000,
+      "bounce": 202,
+      "open24": 79,
+      "replies": 3,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2020-09-02"
+    }
+  },
+  {
+    "date": "2020-09-03",
+    "info": {
+      "sent": 2000,
+      "bounce": 429,
+      "open24": 143,
+      "replies": 4,
+      "interest": 1,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-09-03"
+    }
+  },
+  {
+    "date": "2020-09-04",
+    "info": {
+      "sent": 2000,
+      "bounce": 346,
+      "open24": 212,
+      "replies": 3,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-09-04"
+    }
+  },
+  {
+    "date": "2020-09-05",
+    "info": {
+      "sent": 1993,
+      "bounce": 475,
+      "open24": 174,
+      "replies": 2,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 2,
+      "dt": "2020-09-05"
+    }
+  },
+  {
+    "date": "2020-09-06",
+    "info": {
+      "sent": 1809,
+      "bounce": 286,
+      "open24": 308,
+      "replies": 3,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2020-09-06"
+    }
+  },
+  {
+    "date": "2020-09-07",
+    "info": {
+      "sent": 2000,
+      "bounce": 372,
+      "open24": 354,
+      "replies": 6,
+      "interest": 1,
+      "negative": 2,
+      "neutral": 1,
+      "dt": "2020-09-07"
+    }
+  },
+  {
+    "date": "2020-09-08",
+    "info": {
+      "sent": 2000,
+      "bounce": 459,
+      "open24": 322,
+      "replies": 16,
+      "interest": 0,
+      "negative": 10,
+      "neutral": 2,
+      "dt": "2020-09-08"
+    }
+  },
+  {
+    "date": "2020-09-09",
+    "info": {
+      "sent": 1500,
+      "bounce": 275,
+      "open24": 162,
+      "replies": 5,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 2,
+      "dt": "2020-09-09"
+    }
+  },
+  {
+    "date": "2020-09-10",
+    "info": {
+      "sent": 1500,
+      "bounce": 205,
+      "open24": 103,
+      "replies": 2,
+      "interest": 1,
+      "negative": 0,
+      "neutral": 1,
+      "dt": "2020-09-10"
+    }
+  },
+  {
+    "date": "2020-09-11",
+    "info": {
+      "sent": 1071,
+      "bounce": 174,
+      "open24": 95,
+      "replies": 3,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-09-11"
+    }
+  },
+  {
+    "date": "2020-09-12",
+    "info": {
+      "sent": 2000,
+      "bounce": 321,
+      "open24": 112,
+      "replies": 2,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-09-12"
+    }
+  },
+  {
+    "date": "2020-09-13",
+    "info": {
+      "sent": 2000,
+      "bounce": 396,
+      "open24": 186,
+      "replies": 11,
+      "interest": 0,
+      "negative": 10,
+      "neutral": 1,
+      "dt": "2020-09-13"
+    }
+  },
+  {
+    "date": "2020-09-14",
+    "info": {
+      "sent": 2000,
+      "bounce": 428,
+      "open24": 182,
+      "replies": 9,
+      "interest": 0,
+      "negative": 7,
+      "neutral": 2,
+      "dt": "2020-09-14"
+    }
+  },
+  {
+    "date": "2020-09-15",
+    "info": {
+      "sent": 2000,
+      "bounce": 437,
+      "open24": 120,
+      "replies": 3,
+      "interest": 2,
+      "negative": 0,
+      "neutral": 1,
+      "dt": "2020-09-15"
+    }
+  },
+  {
+    "date": "2020-09-16",
+    "info": {
+      "sent": 2000,
+      "bounce": 441,
+      "open24": 112,
+      "replies": 2,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2020-09-16"
+    }
+  },
+  {
+    "date": "2020-09-17",
+    "info": {
+      "sent": 2000,
+      "bounce": 428,
+      "open24": 131,
+      "replies": 9,
+      "interest": 2,
+      "negative": 3,
+      "neutral": 3,
+      "dt": "2020-09-17"
+    }
+  },
+  {
+    "date": "2020-09-18",
+    "info": {
+      "sent": 2000,
+      "bounce": 414,
+      "open24": 142,
+      "replies": 9,
+      "interest": 3,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2020-09-18"
+    }
+  },
+  {
+    "date": "2020-09-19",
+    "info": {
+      "sent": 2000,
+      "bounce": 409,
+      "open24": 170,
+      "replies": 9,
+      "interest": 1,
+      "negative": 6,
+      "neutral": 0,
+      "dt": "2020-09-19"
+    }
+  },
+  {
+    "date": "2020-09-20",
+    "info": {
+      "sent": 2000,
+      "bounce": 421,
+      "open24": 280,
+      "replies": 9,
+      "interest": 2,
+      "negative": 6,
+      "neutral": 0,
+      "dt": "2020-09-20"
+    }
+  },
+  {
+    "date": "2020-09-21",
+    "info": {
+      "sent": 2000,
+      "bounce": 418,
+      "open24": 295,
+      "replies": 19,
+      "interest": 2,
+      "negative": 11,
+      "neutral": 4,
+      "dt": "2020-09-21"
+    }
+  },
+  {
+    "date": "2020-09-22",
+    "info": {
+      "sent": 2000,
+      "bounce": 456,
+      "open24": 120,
+      "replies": 13,
+      "interest": 2,
+      "negative": 6,
+      "neutral": 2,
+      "dt": "2020-09-22"
+    }
+  },
+  {
+    "date": "2020-09-23",
+    "info": {
+      "sent": 2500,
+      "bounce": 413,
+      "open24": 186,
+      "replies": 11,
+      "interest": 2,
+      "negative": 5,
+      "neutral": 3,
+      "dt": "2020-09-23"
+    }
+  },
+  {
+    "date": "2020-09-24",
+    "info": {
+      "sent": 2500,
+      "bounce": 379,
+      "open24": 272,
+      "replies": 11,
+      "interest": 2,
+      "negative": 9,
+      "neutral": 0,
+      "dt": "2020-09-24"
+    }
+  },
+  {
+    "date": "2020-09-25",
+    "info": {
+      "sent": 2500,
+      "bounce": 354,
+      "open24": 225,
+      "replies": 14,
+      "interest": 2,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2020-09-25"
+    }
+  },
+  {
+    "date": "2020-09-26",
+    "info": {
+      "sent": 2500,
+      "bounce": 388,
+      "open24": 243,
+      "replies": 6,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 2,
+      "dt": "2020-09-26"
+    }
+  },
+  {
+    "date": "2020-09-27",
+    "info": {
+      "sent": 2500,
+      "bounce": 343,
+      "open24": 271,
+      "replies": 3,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-09-27"
+    }
+  },
+  {
+    "date": "2020-09-28",
+    "info": {
+      "sent": 1995,
+      "bounce": 291,
+      "open24": 308,
+      "replies": 15,
+      "interest": 3,
+      "negative": 11,
+      "neutral": 0,
+      "dt": "2020-09-28"
+    }
+  },
+  {
+    "date": "2020-09-29",
+    "info": {
+      "sent": 232,
+      "bounce": 63,
+      "open24": 61,
+      "replies": 2,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-09-29"
+    }
+  },
+  {
+    "date": "2020-09-30",
+    "info": {
+      "sent": 2000,
+      "bounce": 252,
+      "open24": 132,
+      "replies": 9,
+      "interest": 3,
+      "negative": 3,
+      "neutral": 2,
+      "dt": "2020-09-30"
+    }
+  },
+  {
+    "date": "2020-10-01",
+    "info": {
+      "sent": 2000,
+      "bounce": 284,
+      "open24": 170,
+      "replies": 4,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-10-01"
+    }
+  },
+  {
+    "date": "2020-10-02",
+    "info": {
+      "sent": 2000,
+      "bounce": 244,
+      "open24": 166,
+      "replies": 5,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2020-10-02"
+    }
+  },
+  {
+    "date": "2020-10-03",
+    "info": {
+      "sent": 1583,
+      "bounce": 200,
+      "open24": 145,
+      "replies": 2,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-10-03"
+    }
+  },
+  {
+    "date": "2020-10-04",
+    "info": {
+      "sent": 1500,
+      "bounce": 251,
+      "open24": 140,
+      "replies": 2,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-10-04"
+    }
+  },
+  {
+    "date": "2020-10-05",
+    "info": {
+      "sent": 1500,
+      "bounce": 231,
+      "open24": 126,
+      "replies": 8,
+      "interest": 1,
+      "negative": 7,
+      "neutral": 0,
+      "dt": "2020-10-05"
+    }
+  },
+  {
+    "date": "2020-10-06",
+    "info": {
+      "sent": 1501,
+      "bounce": 224,
+      "open24": 100,
+      "replies": 5,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 2,
+      "dt": "2020-10-06"
+    }
+  },
+  {
+    "date": "2020-10-07",
+    "info": {
+      "sent": 1500,
+      "bounce": 248,
+      "open24": 95,
+      "replies": 4,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 1,
+      "dt": "2020-10-07"
+    }
+  },
+  {
+    "date": "2020-10-08",
+    "info": {
+      "sent": 1500,
+      "bounce": 268,
+      "open24": 101,
+      "replies": 7,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 3,
+      "dt": "2020-10-08"
+    }
+  },
+  {
+    "date": "2020-10-09",
+    "info": {
+      "sent": 1500,
+      "bounce": 254,
+      "open24": 93,
+      "replies": 5,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 2,
+      "dt": "2020-10-09"
+    }
+  },
+  {
+    "date": "2020-10-10",
+    "info": {
+      "sent": 1250,
+      "bounce": 231,
+      "open24": 99,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2020-10-10"
+    }
+  },
+  {
+    "date": "2020-10-11",
+    "info": {
+      "sent": 1000,
+      "bounce": 274,
+      "open24": 98,
+      "replies": 2,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-10-11"
+    }
+  },
+  {
+    "date": "2020-10-12",
+    "info": {
+      "sent": 2000,
+      "bounce": 270,
+      "open24": 196,
+      "replies": 8,
+      "interest": 0,
+      "negative": 7,
+      "neutral": 1,
+      "dt": "2020-10-12"
+    }
+  },
+  {
+    "date": "2020-10-13",
+    "info": {
+      "sent": 2000,
+      "bounce": 350,
+      "open24": 230,
+      "replies": 7,
+      "interest": 0,
+      "negative": 5,
+      "neutral": 2,
+      "dt": "2020-10-13"
+    }
+  },
+  {
+    "date": "2020-10-14",
+    "info": {
+      "sent": 2000,
+      "bounce": 345,
+      "open24": 225,
+      "replies": 12,
+      "interest": 1,
+      "negative": 9,
+      "neutral": 1,
+      "dt": "2020-10-14"
+    }
+  },
+  {
+    "date": "2020-10-15",
+    "info": {
+      "sent": 1846,
+      "bounce": 277,
+      "open24": 198,
+      "replies": 13,
+      "interest": 0,
+      "negative": 8,
+      "neutral": 3,
+      "dt": "2020-10-15"
+    }
+  },
+  {
+    "date": "2020-10-16",
+    "info": {
+      "sent": 1229,
+      "bounce": 142,
+      "open24": 157,
+      "replies": 4,
+      "interest": 1,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-10-16"
+    }
+  },
+  {
+    "date": "2020-10-17",
+    "info": {
+      "sent": 1000,
+      "bounce": 88,
+      "open24": 131,
+      "replies": 3,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 1,
+      "dt": "2020-10-17"
+    }
+  },
+  {
+    "date": "2020-10-18",
+    "info": {
+      "sent": 1000,
+      "bounce": 64,
+      "open24": 135,
+      "replies": 7,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2020-10-18"
+    }
+  },
+  {
+    "date": "2020-10-19",
+    "info": {
+      "sent": 1000,
+      "bounce": 73,
+      "open24": 103,
+      "replies": 9,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-10-19"
+    }
+  },
+  {
+    "date": "2020-10-20",
+    "info": {
+      "sent": 1000,
+      "bounce": 75,
+      "open24": 93,
+      "replies": 7,
+      "interest": 2,
+      "negative": 3,
+      "neutral": 1,
+      "dt": "2020-10-20"
+    }
+  },
+  {
+    "date": "2020-10-21",
+    "info": {
+      "sent": 1000,
+      "bounce": 69,
+      "open24": 131,
+      "replies": 5,
+      "interest": 3,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-10-21"
+    }
+  },
+  {
+    "date": "2020-10-22",
+    "info": {
+      "sent": 1000,
+      "bounce": 86,
+      "open24": 127,
+      "replies": 7,
+      "interest": 1,
+      "negative": 5,
+      "neutral": 0,
+      "dt": "2020-10-22"
+    }
+  },
+  {
+    "date": "2020-10-23",
+    "info": {
+      "sent": 1000,
+      "bounce": 83,
+      "open24": 125,
+      "replies": 6,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-10-23"
+    }
+  },
+  {
+    "date": "2020-10-24",
+    "info": {
+      "sent": 1000,
+      "bounce": 86,
+      "open24": 126,
+      "replies": 6,
+      "interest": 0,
+      "negative": 6,
+      "neutral": 0,
+      "dt": "2020-10-24"
+    }
+  },
+  {
+    "date": "2020-10-25",
+    "info": {
+      "sent": 1000,
+      "bounce": 60,
+      "open24": 163,
+      "replies": 4,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-10-25"
+    }
+  },
+  {
+    "date": "2020-10-26",
+    "info": {
+      "sent": 1000,
+      "bounce": 76,
+      "open24": 115,
+      "replies": 7,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2020-10-26"
+    }
+  },
+  {
+    "date": "2020-10-27",
+    "info": {
+      "sent": 1000,
+      "bounce": 66,
+      "open24": 136,
+      "replies": 5,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-10-27"
+    }
+  },
+  {
+    "date": "2020-10-28",
+    "info": {
+      "sent": 1000,
+      "bounce": 66,
+      "open24": 103,
+      "replies": 3,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 1,
+      "dt": "2020-10-28"
+    }
+  },
+  {
+    "date": "2020-10-29",
+    "info": {
+      "sent": 1000,
+      "bounce": 71,
+      "open24": 110,
+      "replies": 8,
+      "interest": 0,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2020-10-29"
+    }
+  },
+  {
+    "date": "2020-10-30",
+    "info": {
+      "sent": 1000,
+      "bounce": 71,
+      "open24": 126,
+      "replies": 13,
+      "interest": 1,
+      "negative": 7,
+      "neutral": 0,
+      "dt": "2020-10-30"
+    }
+  },
+  {
+    "date": "2020-10-31",
+    "info": {
+      "sent": 1000,
+      "bounce": 67,
+      "open24": 105,
+      "replies": 2,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-10-31"
+    }
+  },
+  {
+    "date": "2020-11-01",
+    "info": {
+      "sent": 1000,
+      "bounce": 67,
+      "open24": 94,
+      "replies": 7,
+      "interest": 2,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-11-01"
+    }
+  },
+  {
+    "date": "2020-11-02",
+    "info": {
+      "sent": 1000,
+      "bounce": 66,
+      "open24": 115,
+      "replies": 6,
+      "interest": 1,
+      "negative": 2,
+      "neutral": 2,
+      "dt": "2020-11-02"
+    }
+  },
+  {
+    "date": "2020-11-03",
+    "info": {
+      "sent": 1000,
+      "bounce": 48,
+      "open24": 79,
+      "replies": 7,
+      "interest": 0,
+      "negative": 5,
+      "neutral": 2,
+      "dt": "2020-11-03"
+    }
+  },
+  {
+    "date": "2020-11-04",
+    "info": {
+      "sent": 1000,
+      "bounce": 65,
+      "open24": 92,
+      "replies": 6,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-11-04"
+    }
+  },
+  {
+    "date": "2020-11-05",
+    "info": {
+      "sent": 1000,
+      "bounce": 81,
+      "open24": 99,
+      "replies": 6,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 1,
+      "dt": "2020-11-05"
+    }
+  },
+  {
+    "date": "2020-11-06",
+    "info": {
+      "sent": 1000,
+      "bounce": 73,
+      "open24": 111,
+      "replies": 3,
+      "interest": 1,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-11-06"
+    }
+  },
+  {
+    "date": "2020-11-07",
+    "info": {
+      "sent": 1000,
+      "bounce": 75,
+      "open24": 90,
+      "replies": 4,
+      "interest": 1,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-11-07"
+    }
+  },
+  {
+    "date": "2020-11-08",
+    "info": {
+      "sent": 990,
+      "bounce": 70,
+      "open24": 128,
+      "replies": 4,
+      "interest": 1,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2020-11-08"
+    }
+  },
+  {
+    "date": "2020-11-09",
+    "info": {
+      "sent": 1000,
+      "bounce": 73,
+      "open24": 109,
+      "replies": 8,
+      "interest": 0,
+      "negative": 5,
+      "neutral": 2,
+      "dt": "2020-11-09"
+    }
+  },
+  {
+    "date": "2020-11-10",
+    "info": {
+      "sent": 1000,
+      "bounce": 60,
+      "open24": 84,
+      "replies": 1,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-11-10"
+    }
+  },
+  {
+    "date": "2020-11-11",
+    "info": {
+      "sent": 1000,
+      "bounce": 53,
+      "open24": 99,
+      "replies": 2,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-11-11"
+    }
+  },
+  {
+    "date": "2020-11-12",
+    "info": {
+      "sent": 1000,
+      "bounce": 85,
+      "open24": 84,
+      "replies": 2,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-11-12"
+    }
+  },
+  {
+    "date": "2020-11-13",
+    "info": {
+      "sent": 1050,
+      "bounce": 58,
+      "open24": 88,
+      "replies": 4,
+      "interest": 2,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-11-13"
+    }
+  },
+  {
+    "date": "2020-11-14",
+    "info": {
+      "sent": 1050,
+      "bounce": 58,
+      "open24": 86,
+      "replies": 3,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2020-11-14"
+    }
+  },
+  {
+    "date": "2020-11-15",
+    "info": {
+      "sent": 625,
+      "bounce": 41,
+      "open24": 76,
+      "replies": 2,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2020-11-15"
+    }
+  },
+  {
+    "date": "2020-11-16",
+    "info": {
+      "sent": 625,
+      "bounce": 42,
+      "open24": 64,
+      "replies": 3,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-11-16"
+    }
+  },
+  {
+    "date": "2020-11-17",
+    "info": {
+      "sent": 750,
+      "bounce": 46,
+      "open24": 78,
+      "replies": 3,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 1,
+      "dt": "2020-11-17"
+    }
+  },
+  {
+    "date": "2020-11-18",
+    "info": {
+      "sent": 750,
+      "bounce": 42,
+      "open24": 89,
+      "replies": 5,
+      "interest": 1,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-11-18"
+    }
+  },
+  {
+    "date": "2020-11-19",
+    "info": {
+      "sent": 950,
+      "bounce": 34,
+      "open24": 129,
+      "replies": 6,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-11-19"
+    }
+  },
+  {
+    "date": "2020-11-20",
+    "info": {
+      "sent": 950,
+      "bounce": 37,
+      "open24": 140,
+      "replies": 5,
+      "interest": 2,
+      "negative": 0,
+      "neutral": 1,
+      "dt": "2020-11-20"
+    }
+  },
+  {
+    "date": "2020-11-21",
+    "info": {
+      "sent": 1150,
+      "bounce": 65,
+      "open24": 158,
+      "replies": 5,
+      "interest": 2,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-11-21"
+    }
+  },
+  {
+    "date": "2020-11-22",
+    "info": {
+      "sent": 1150,
+      "bounce": 49,
+      "open24": 155,
+      "replies": 8,
+      "interest": 2,
+      "negative": 2,
+      "neutral": 2,
+      "dt": "2020-11-22"
+    }
+  },
+  {
+    "date": "2020-11-23",
+    "info": {
+      "sent": 1350,
+      "bounce": 53,
+      "open24": 191,
+      "replies": 2,
+      "interest": 1,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-11-23"
+    }
+  },
+  {
+    "date": "2020-11-24",
+    "info": {
+      "sent": 1350,
+      "bounce": 55,
+      "open24": 181,
+      "replies": 6,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2020-11-24"
+    }
+  },
+  {
+    "date": "2020-11-25",
+    "info": {
+      "sent": 1186,
+      "bounce": 53,
+      "open24": 156,
+      "replies": 5,
+      "interest": 2,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2020-11-25"
+    }
+  },
+  {
+    "date": "2020-11-26",
+    "info": {
+      "sent": 0,
+      "bounce": 10,
+      "open24": 66,
+      "replies": 2,
+      "interest": 1,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-11-26"
+    }
+  },
+  {
+    "date": "2020-11-27",
+    "info": {
+      "sent": 1050,
+      "bounce": 32,
+      "open24": 68,
+      "replies": 4,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-11-27"
+    }
+  },
+  {
+    "date": "2020-11-28",
+    "info": {
+      "sent": 1050,
+      "bounce": 36,
+      "open24": 131,
+      "replies": 4,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 1,
+      "dt": "2020-11-28"
+    }
+  },
+  {
+    "date": "2020-11-29",
+    "info": {
+      "sent": 1050,
+      "bounce": 47,
+      "open24": 150,
+      "replies": 5,
+      "interest": 1,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-11-29"
+    }
+  },
+  {
+    "date": "2020-11-30",
+    "info": {
+      "sent": 1050,
+      "bounce": 33,
+      "open24": 162,
+      "replies": 5,
+      "interest": 2,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-11-30"
+    }
+  },
+  {
+    "date": "2020-12-01",
+    "info": {
+      "sent": 1050,
+      "bounce": 43,
+      "open24": 134,
+      "replies": 1,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-12-01"
+    }
+  },
+  {
+    "date": "2020-12-02",
+    "info": {
+      "sent": 1050,
+      "bounce": 39,
+      "open24": 132,
+      "replies": 4,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2020-12-02"
+    }
+  },
+  {
+    "date": "2020-12-03",
+    "info": {
+      "sent": 1050,
+      "bounce": 36,
+      "open24": 146,
+      "replies": 9,
+      "interest": 1,
+      "negative": 5,
+      "neutral": 1,
+      "dt": "2020-12-03"
+    }
+  },
+  {
+    "date": "2020-12-04",
+    "info": {
+      "sent": 1050,
+      "bounce": 45,
+      "open24": 142,
+      "replies": 3,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2020-12-04"
+    }
+  },
+  {
+    "date": "2020-12-05",
+    "info": {
+      "sent": 1050,
+      "bounce": 37,
+      "open24": 117,
+      "replies": 3,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-12-05"
+    }
+  },
+  {
+    "date": "2020-12-06",
+    "info": {
+      "sent": 1050,
+      "bounce": 39,
+      "open24": 105,
+      "replies": 4,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-12-06"
+    }
+  },
+  {
+    "date": "2020-12-07",
+    "info": {
+      "sent": 1050,
+      "bounce": 40,
+      "open24": 147,
+      "replies": 8,
+      "interest": 2,
+      "negative": 3,
+      "neutral": 1,
+      "dt": "2020-12-07"
+    }
+  },
+  {
+    "date": "2020-12-08",
+    "info": {
+      "sent": 1050,
+      "bounce": 40,
+      "open24": 132,
+      "replies": 6,
+      "interest": 0,
+      "negative": 6,
+      "neutral": 0,
+      "dt": "2020-12-08"
+    }
+  },
+  {
+    "date": "2020-12-09",
+    "info": {
+      "sent": 1050,
+      "bounce": 33,
+      "open24": 137,
+      "replies": 4,
+      "interest": 1,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2020-12-09"
+    }
+  },
+  {
+    "date": "2020-12-10",
+    "info": {
+      "sent": 247,
+      "bounce": 16,
+      "open24": 71,
+      "replies": 3,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2020-12-10"
+    }
+  },
+  {
+    "date": "2020-12-11",
+    "info": {
+      "sent": 0,
+      "bounce": 2,
+      "open24": 2,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2020-12-11"
+    }
+  },
+  {
+    "date": "2020-12-15",
+    "info": {
+      "sent": 1050,
+      "bounce": 94,
+      "open24": 75,
+      "replies": 6,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 2,
+      "dt": "2020-12-15"
+    }
+  },
+  {
+    "date": "2020-12-16",
+    "info": {
+      "sent": 1050,
+      "bounce": 45,
+      "open24": 123,
+      "replies": 5,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-12-16"
+    }
+  },
+  {
+    "date": "2020-12-17",
+    "info": {
+      "sent": 1050,
+      "bounce": 32,
+      "open24": 104,
+      "replies": 3,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-12-17"
+    }
+  },
+  {
+    "date": "2020-12-18",
+    "info": {
+      "sent": 1075,
+      "bounce": 35,
+      "open24": 104,
+      "replies": 5,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-12-18"
+    }
+  },
+  {
+    "date": "2020-12-19",
+    "info": {
+      "sent": 1075,
+      "bounce": 36,
+      "open24": 103,
+      "replies": 9,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2020-12-19"
+    }
+  },
+  {
+    "date": "2020-12-20",
+    "info": {
+      "sent": 1075,
+      "bounce": 47,
+      "open24": 138,
+      "replies": 5,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 1,
+      "dt": "2020-12-20"
+    }
+  },
+  {
+    "date": "2020-12-21",
+    "info": {
+      "sent": 1100,
+      "bounce": 39,
+      "open24": 158,
+      "replies": 4,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-12-21"
+    }
+  },
+  {
+    "date": "2020-12-22",
+    "info": {
+      "sent": 1150,
+      "bounce": 57,
+      "open24": 108,
+      "replies": 5,
+      "interest": 1,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-12-22"
+    }
+  },
+  {
+    "date": "2020-12-23",
+    "info": {
+      "sent": 1150,
+      "bounce": 45,
+      "open24": 113,
+      "replies": 6,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2020-12-23"
+    }
+  },
+  {
+    "date": "2020-12-24",
+    "info": {
+      "sent": 828,
+      "bounce": 39,
+      "open24": 106,
+      "replies": 6,
+      "interest": 1,
+      "negative": 5,
+      "neutral": 0,
+      "dt": "2020-12-24"
+    }
+  },
+  {
+    "date": "2020-12-25",
+    "info": {
+      "sent": 0,
+      "bounce": 8,
+      "open24": 41,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2020-12-25"
+    }
+  },
+  {
+    "date": "2020-12-26",
+    "info": {
+      "sent": 1250,
+      "bounce": 54,
+      "open24": 91,
+      "replies": 1,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2020-12-26"
+    }
+  },
+  {
+    "date": "2020-12-27",
+    "info": {
+      "sent": 1350,
+      "bounce": 56,
+      "open24": 188,
+      "replies": 3,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2020-12-27"
+    }
+  },
+  {
+    "date": "2020-12-28",
+    "info": {
+      "sent": 1350,
+      "bounce": 70,
+      "open24": 208,
+      "replies": 5,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2020-12-28"
+    }
+  },
+  {
+    "date": "2020-12-29",
+    "info": {
+      "sent": 1450,
+      "bounce": 66,
+      "open24": 181,
+      "replies": 2,
+      "interest": 1,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2020-12-29"
+    }
+  },
+  {
+    "date": "2020-12-30",
+    "info": {
+      "sent": 1450,
+      "bounce": 70,
+      "open24": 179,
+      "replies": 10,
+      "interest": 1,
+      "negative": 8,
+      "neutral": 0,
+      "dt": "2020-12-30"
+    }
+  },
+  {
+    "date": "2020-12-31",
+    "info": {
+      "sent": 252,
+      "bounce": 18,
+      "open24": 110,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2020-12-31"
+    }
+  },
+  {
+    "date": "2021-01-01",
+    "info": {
+      "sent": 0,
+      "bounce": 3,
+      "open24": 7,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2021-01-01"
+    }
+  },
+  {
+    "date": "2021-01-02",
+    "info": {
+      "sent": 1550,
+      "bounce": 66,
+      "open24": 120,
+      "replies": 4,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2021-01-02"
+    }
+  },
+  {
+    "date": "2021-01-03",
+    "info": {
+      "sent": 1550,
+      "bounce": 88,
+      "open24": 205,
+      "replies": 2,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2021-01-03"
+    }
+  },
+  {
+    "date": "2021-01-04",
+    "info": {
+      "sent": 1550,
+      "bounce": 77,
+      "open24": 227,
+      "replies": 11,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2021-01-04"
+    }
+  },
+  {
+    "date": "2021-01-05",
+    "info": {
+      "sent": 1550,
+      "bounce": 75,
+      "open24": 172,
+      "replies": 6,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2021-01-05"
+    }
+  },
+  {
+    "date": "2021-01-06",
+    "info": {
+      "sent": 1550,
+      "bounce": 98,
+      "open24": 180,
+      "replies": 10,
+      "interest": 1,
+      "negative": 2,
+      "neutral": 4,
+      "dt": "2021-01-06"
+    }
+  },
+  {
+    "date": "2021-01-07",
+    "info": {
+      "sent": 1550,
+      "bounce": 80,
+      "open24": 218,
+      "replies": 5,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 1,
+      "dt": "2021-01-07"
+    }
+  },
+  {
+    "date": "2021-01-08",
+    "info": {
+      "sent": 1550,
+      "bounce": 86,
+      "open24": 210,
+      "replies": 16,
+      "interest": 1,
+      "negative": 10,
+      "neutral": 1,
+      "dt": "2021-01-08"
+    }
+  },
+  {
+    "date": "2021-01-09",
+    "info": {
+      "sent": 1550,
+      "bounce": 78,
+      "open24": 197,
+      "replies": 6,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 1,
+      "dt": "2021-01-09"
+    }
+  },
+  {
+    "date": "2021-01-10",
+    "info": {
+      "sent": 1550,
+      "bounce": 90,
+      "open24": 264,
+      "replies": 11,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 4,
+      "dt": "2021-01-10"
+    }
+  },
+  {
+    "date": "2021-01-11",
+    "info": {
+      "sent": 1550,
+      "bounce": 103,
+      "open24": 291,
+      "replies": 5,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2021-01-11"
+    }
+  },
+  {
+    "date": "2021-01-12",
+    "info": {
+      "sent": 1550,
+      "bounce": 101,
+      "open24": 300,
+      "replies": 9,
+      "interest": 0,
+      "negative": 6,
+      "neutral": 0,
+      "dt": "2021-01-12"
+    }
+  },
+  {
+    "date": "2021-01-13",
+    "info": {
+      "sent": 1550,
+      "bounce": 70,
+      "open24": 277,
+      "replies": 11,
+      "interest": 1,
+      "negative": 8,
+      "neutral": 0,
+      "dt": "2021-01-13"
+    }
+  },
+  {
+    "date": "2021-01-14",
+    "info": {
+      "sent": 1550,
+      "bounce": 84,
+      "open24": 300,
+      "replies": 19,
+      "interest": 4,
+      "negative": 10,
+      "neutral": 1,
+      "dt": "2021-01-14"
+    }
+  },
+  {
+    "date": "2021-01-15",
+    "info": {
+      "sent": 1550,
+      "bounce": 84,
+      "open24": 275,
+      "replies": 13,
+      "interest": 3,
+      "negative": 6,
+      "neutral": 0,
+      "dt": "2021-01-15"
+    }
+  },
+  {
+    "date": "2021-01-16",
+    "info": {
+      "sent": 1550,
+      "bounce": 86,
+      "open24": 184,
+      "replies": 7,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 2,
+      "dt": "2021-01-16"
+    }
+  },
+  {
+    "date": "2021-01-17",
+    "info": {
+      "sent": 1550,
+      "bounce": 83,
+      "open24": 237,
+      "replies": 9,
+      "interest": 1,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2021-01-17"
+    }
+  },
+  {
+    "date": "2021-01-18",
+    "info": {
+      "sent": 1550,
+      "bounce": 98,
+      "open24": 250,
+      "replies": 11,
+      "interest": 0,
+      "negative": 8,
+      "neutral": 1,
+      "dt": "2021-01-18"
+    }
+  },
+  {
+    "date": "2021-01-19",
+    "info": {
+      "sent": 1510,
+      "bounce": 89,
+      "open24": 212,
+      "replies": 10,
+      "interest": 2,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2021-01-19"
+    }
+  },
+  {
+    "date": "2021-01-20",
+    "info": {
+      "sent": 3,
+      "bounce": 26,
+      "open24": 81,
+      "replies": 3,
+      "interest": 2,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2021-01-20"
+    }
+  },
+  {
+    "date": "2021-01-29",
+    "info": {
+      "sent": 75,
+      "bounce": 4,
+      "open24": 12,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2021-01-29"
+    }
+  },
+  {
+    "date": "2021-01-30",
+    "info": {
+      "sent": 150,
+      "bounce": 8,
+      "open24": 14,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2021-01-30"
+    }
+  },
+  {
+    "date": "2021-01-31",
+    "info": {
+      "sent": 300,
+      "bounce": 25,
+      "open24": 35,
+      "replies": 2,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2021-01-31"
+    }
+  },
+  {
+    "date": "2021-02-01",
+    "info": {
+      "sent": 600,
+      "bounce": 38,
+      "open24": 67,
+      "replies": 3,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2021-02-01"
+    }
+  },
+  {
+    "date": "2021-02-02",
+    "info": {
+      "sent": 900,
+      "bounce": 50,
+      "open24": 110,
+      "replies": 7,
+      "interest": 3,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2021-02-02"
+    }
+  },
+  {
+    "date": "2021-02-03",
+    "info": {
+      "sent": 1200,
+      "bounce": 74,
+      "open24": 168,
+      "replies": 5,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2021-02-03"
+    }
+  },
+  {
+    "date": "2021-02-04",
+    "info": {
+      "sent": 1500,
+      "bounce": 129,
+      "open24": 191,
+      "replies": 4,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2021-02-04"
+    }
+  },
+  {
+    "date": "2021-02-05",
+    "info": {
+      "sent": 750,
+      "bounce": 77,
+      "open24": 132,
+      "replies": 3,
+      "interest": 1,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2021-02-05"
+    }
+  },
+  {
+    "date": "2021-02-06",
+    "info": {
+      "sent": 750,
+      "bounce": 68,
+      "open24": 92,
+      "replies": 3,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 2,
+      "dt": "2021-02-06"
+    }
+  },
+  {
+    "date": "2021-02-07",
+    "info": {
+      "sent": 750,
+      "bounce": 55,
+      "open24": 112,
+      "replies": 2,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2021-02-07"
+    }
+  },
+  {
+    "date": "2021-02-08",
+    "info": {
+      "sent": 750,
+      "bounce": 70,
+      "open24": 106,
+      "replies": 4,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2021-02-08"
+    }
+  },
+  {
+    "date": "2021-02-09",
+    "info": {
+      "sent": 750,
+      "bounce": 52,
+      "open24": 88,
+      "replies": 5,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2021-02-09"
+    }
+  },
+  {
+    "date": "2021-02-10",
+    "info": {
+      "sent": 750,
+      "bounce": 67,
+      "open24": 115,
+      "replies": 4,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2021-02-10"
+    }
+  },
+  {
+    "date": "2021-02-11",
+    "info": {
+      "sent": 750,
+      "bounce": 64,
+      "open24": 129,
+      "replies": 3,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2021-02-11"
+    }
+  },
+  {
+    "date": "2021-02-12",
+    "info": {
+      "sent": 1200,
+      "bounce": 102,
+      "open24": 162,
+      "replies": 4,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 2,
+      "dt": "2021-02-12"
+    }
+  },
+  {
+    "date": "2021-02-13",
+    "info": {
+      "sent": 1500,
+      "bounce": 122,
+      "open24": 206,
+      "replies": 3,
+      "interest": 1,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2021-02-13"
+    }
+  },
+  {
+    "date": "2021-02-14",
+    "info": {
+      "sent": 1500,
+      "bounce": 101,
+      "open24": 265,
+      "replies": 5,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2021-02-14"
+    }
+  },
+  {
+    "date": "2021-02-15",
+    "info": {
+      "sent": 1500,
+      "bounce": 99,
+      "open24": 255,
+      "replies": 9,
+      "interest": 1,
+      "negative": 5,
+      "neutral": 1,
+      "dt": "2021-02-15"
+    }
+  },
+  {
+    "date": "2021-02-16",
+    "info": {
+      "sent": 1500,
+      "bounce": 112,
+      "open24": 213,
+      "replies": 6,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 2,
+      "dt": "2021-02-16"
+    }
+  },
+  {
+    "date": "2021-02-17",
+    "info": {
+      "sent": 1500,
+      "bounce": 112,
+      "open24": 172,
+      "replies": 7,
+      "interest": 2,
+      "negative": 2,
+      "neutral": 2,
+      "dt": "2021-02-17"
+    }
+  },
+  {
+    "date": "2021-02-18",
+    "info": {
+      "sent": 1500,
+      "bounce": 108,
+      "open24": 155,
+      "replies": 10,
+      "interest": 3,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2021-02-18"
+    }
+  },
+  {
+    "date": "2021-02-19",
+    "info": {
+      "sent": 1500,
+      "bounce": 113,
+      "open24": 144,
+      "replies": 5,
+      "interest": 1,
+      "negative": 3,
+      "neutral": 1,
+      "dt": "2021-02-19"
+    }
+  },
+  {
+    "date": "2021-02-20",
+    "info": {
+      "sent": 1500,
+      "bounce": 123,
+      "open24": 119,
+      "replies": 5,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2021-02-20"
+    }
+  },
+  {
+    "date": "2021-02-21",
+    "info": {
+      "sent": 1500,
+      "bounce": 130,
+      "open24": 106,
+      "replies": 3,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2021-02-21"
+    }
+  },
+  {
+    "date": "2021-02-22",
+    "info": {
+      "sent": 1500,
+      "bounce": 116,
+      "open24": 117,
+      "replies": 7,
+      "interest": 2,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2021-02-22"
+    }
+  },
+  {
+    "date": "2021-02-23",
+    "info": {
+      "sent": 1385,
+      "bounce": 117,
+      "open24": 92,
+      "replies": 8,
+      "interest": 0,
+      "negative": 6,
+      "neutral": 0,
+      "dt": "2021-02-23"
+    }
+  },
+  {
+    "date": "2021-02-24",
+    "info": {
+      "sent": 1495,
+      "bounce": 108,
+      "open24": 116,
+      "replies": 5,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 1,
+      "dt": "2021-02-24"
+    }
+  },
+  {
+    "date": "2021-02-25",
+    "info": {
+      "sent": 1188,
+      "bounce": 100,
+      "open24": 84,
+      "replies": 6,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2021-02-25"
+    }
+  },
+  {
+    "date": "2021-02-26",
+    "info": {
+      "sent": 1523,
+      "bounce": 95,
+      "open24": 90,
+      "replies": 4,
+      "interest": 1,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2021-02-26"
+    }
+  },
+  {
+    "date": "2021-02-27",
+    "info": {
+      "sent": 2400,
+      "bounce": 173,
+      "open24": 137,
+      "replies": 4,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2021-02-27"
+    }
+  },
+  {
+    "date": "2021-02-28",
+    "info": {
+      "sent": 2700,
+      "bounce": 200,
+      "open24": 197,
+      "replies": 9,
+      "interest": 0,
+      "negative": 5,
+      "neutral": 1,
+      "dt": "2021-02-28"
+    }
+  },
+  {
+    "date": "2021-03-01",
+    "info": {
+      "sent": 2242,
+      "bounce": 175,
+      "open24": 177,
+      "replies": 19,
+      "interest": 1,
+      "negative": 9,
+      "neutral": 1,
+      "dt": "2021-03-01"
+    }
+  },
+  {
+    "date": "2021-03-02",
+    "info": {
+      "sent": 2938,
+      "bounce": 212,
+      "open24": 207,
+      "replies": 9,
+      "interest": 1,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2021-03-02"
+    }
+  },
+  {
+    "date": "2021-03-03",
+    "info": {
+      "sent": 2958,
+      "bounce": 218,
+      "open24": 219,
+      "replies": 14,
+      "interest": 1,
+      "negative": 9,
+      "neutral": 0,
+      "dt": "2021-03-03"
+    }
+  },
+  {
+    "date": "2021-03-04",
+    "info": {
+      "sent": 2004,
+      "bounce": 155,
+      "open24": 184,
+      "replies": 7,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2021-03-04"
+    }
+  },
+  {
+    "date": "2021-03-05",
+    "info": {
+      "sent": 3099,
+      "bounce": 223,
+      "open24": 272,
+      "replies": 6,
+      "interest": 1,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2021-03-05"
+    }
+  },
+  {
+    "date": "2021-03-06",
+    "info": {
+      "sent": 2515,
+      "bounce": 433,
+      "open24": 198,
+      "replies": 9,
+      "interest": 3,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2021-03-06"
+    }
+  },
+  {
+    "date": "2021-03-07",
+    "info": {
+      "sent": 2268,
+      "bounce": 194,
+      "open24": 189,
+      "replies": 10,
+      "interest": 1,
+      "negative": 5,
+      "neutral": 1,
+      "dt": "2021-03-07"
+    }
+  },
+  {
+    "date": "2021-03-08",
+    "info": {
+      "sent": 3794,
+      "bounce": 225,
+      "open24": 238,
+      "replies": 12,
+      "interest": 0,
+      "negative": 8,
+      "neutral": 1,
+      "dt": "2021-03-08"
+    }
+  },
+  {
+    "date": "2021-03-09",
+    "info": {
+      "sent": 5208,
+      "bounce": 331,
+      "open24": 442,
+      "replies": 21,
+      "interest": 2,
+      "negative": 11,
+      "neutral": 4,
+      "dt": "2021-03-09"
+    }
+  },
+  {
+    "date": "2021-03-10",
+    "info": {
+      "sent": 4752,
+      "bounce": 348,
+      "open24": 404,
+      "replies": 16,
+      "interest": 0,
+      "negative": 10,
+      "neutral": 3,
+      "dt": "2021-03-10"
+    }
+  },
+  {
+    "date": "2021-03-11",
+    "info": {
+      "sent": 4480,
+      "bounce": 304,
+      "open24": 381,
+      "replies": 22,
+      "interest": 2,
+      "negative": 14,
+      "neutral": 2,
+      "dt": "2021-03-11"
+    }
+  },
+  {
+    "date": "2021-03-12",
+    "info": {
+      "sent": 4405,
+      "bounce": 305,
+      "open24": 290,
+      "replies": 10,
+      "interest": 0,
+      "negative": 5,
+      "neutral": 1,
+      "dt": "2021-03-12"
+    }
+  },
+  {
+    "date": "2021-03-13",
+    "info": {
+      "sent": 4680,
+      "bounce": 323,
+      "open24": 321,
+      "replies": 7,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2021-03-13"
+    }
+  },
+  {
+    "date": "2021-03-14",
+    "info": {
+      "sent": 5011,
+      "bounce": 329,
+      "open24": 373,
+      "replies": 14,
+      "interest": 3,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2021-03-14"
+    }
+  },
+  {
+    "date": "2021-03-15",
+    "info": {
+      "sent": 3191,
+      "bounce": 251,
+      "open24": 335,
+      "replies": 7,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2021-03-15"
+    }
+  },
+  {
+    "date": "2021-03-16",
+    "info": {
+      "sent": 5153,
+      "bounce": 372,
+      "open24": 410,
+      "replies": 17,
+      "interest": 0,
+      "negative": 11,
+      "neutral": 2,
+      "dt": "2021-03-16"
+    }
+  },
+  {
+    "date": "2021-03-17",
+    "info": {
+      "sent": 4229,
+      "bounce": 371,
+      "open24": 390,
+      "replies": 19,
+      "interest": 3,
+      "negative": 13,
+      "neutral": 2,
+      "dt": "2021-03-17"
+    }
+  },
+  {
+    "date": "2021-03-18",
+    "info": {
+      "sent": 4072,
+      "bounce": 287,
+      "open24": 377,
+      "replies": 10,
+      "interest": 2,
+      "negative": 5,
+      "neutral": 1,
+      "dt": "2021-03-18"
+    }
+  },
+  {
+    "date": "2021-03-19",
+    "info": {
+      "sent": 4020,
+      "bounce": 292,
+      "open24": 272,
+      "replies": 14,
+      "interest": 4,
+      "negative": 6,
+      "neutral": 2,
+      "dt": "2021-03-19"
+    }
+  },
+  {
+    "date": "2021-03-20",
+    "info": {
+      "sent": 4025,
+      "bounce": 313,
+      "open24": 315,
+      "replies": 19,
+      "interest": 1,
+      "negative": 9,
+      "neutral": 4,
+      "dt": "2021-03-20"
+    }
+  },
+  {
+    "date": "2021-03-21",
+    "info": {
+      "sent": 4025,
+      "bounce": 275,
+      "open24": 331,
+      "replies": 12,
+      "interest": 3,
+      "negative": 8,
+      "neutral": 0,
+      "dt": "2021-03-21"
+    }
+  },
+  {
+    "date": "2021-03-22",
+    "info": {
+      "sent": 4025,
+      "bounce": 309,
+      "open24": 311,
+      "replies": 17,
+      "interest": 0,
+      "negative": 10,
+      "neutral": 3,
+      "dt": "2021-03-22"
+    }
+  },
+  {
+    "date": "2021-03-23",
+    "info": {
+      "sent": 4025,
+      "bounce": 322,
+      "open24": 272,
+      "replies": 9,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2021-03-23"
+    }
+  },
+  {
+    "date": "2021-03-24",
+    "info": {
+      "sent": 4019,
+      "bounce": 318,
+      "open24": 309,
+      "replies": 14,
+      "interest": 5,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2021-03-24"
+    }
+  },
+  {
+    "date": "2021-03-25",
+    "info": {
+      "sent": 4017,
+      "bounce": 322,
+      "open24": 283,
+      "replies": 11,
+      "interest": 2,
+      "negative": 1,
+      "neutral": 2,
+      "dt": "2021-03-25"
+    }
+  },
+  {
+    "date": "2021-03-26",
+    "info": {
+      "sent": 4025,
+      "bounce": 332,
+      "open24": 280,
+      "replies": 10,
+      "interest": 0,
+      "negative": 7,
+      "neutral": 1,
+      "dt": "2021-03-26"
+    }
+  },
+  {
+    "date": "2021-03-27",
+    "info": {
+      "sent": 4005,
+      "bounce": 288,
+      "open24": 321,
+      "replies": 12,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2021-03-27"
+    }
+  },
+  {
+    "date": "2021-03-28",
+    "info": {
+      "sent": 3689,
+      "bounce": 295,
+      "open24": 298,
+      "replies": 17,
+      "interest": 0,
+      "negative": 10,
+      "neutral": 1,
+      "dt": "2021-03-28"
+    }
+  },
+  {
+    "date": "2021-03-29",
+    "info": {
+      "sent": 4025,
+      "bounce": 297,
+      "open24": 386,
+      "replies": 12,
+      "interest": 1,
+      "negative": 9,
+      "neutral": 0,
+      "dt": "2021-03-29"
+    }
+  },
+  {
+    "date": "2021-03-30",
+    "info": {
+      "sent": 4025,
+      "bounce": 280,
+      "open24": 310,
+      "replies": 13,
+      "interest": 2,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2021-03-30"
+    }
+  },
+  {
+    "date": "2021-03-31",
+    "info": {
+      "sent": 3318,
+      "bounce": 250,
+      "open24": 292,
+      "replies": 7,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2021-03-31"
+    }
+  },
+  {
+    "date": "2021-04-01",
+    "info": {
+      "sent": 2958,
+      "bounce": 224,
+      "open24": 241,
+      "replies": 17,
+      "interest": 4,
+      "negative": 6,
+      "neutral": 0,
+      "dt": "2021-04-01"
+    }
+  },
+  {
+    "date": "2021-04-02",
+    "info": {
+      "sent": 3092,
+      "bounce": 223,
+      "open24": 235,
+      "replies": 8,
+      "interest": 1,
+      "negative": 3,
+      "neutral": 1,
+      "dt": "2021-04-02"
+    }
+  },
+  {
+    "date": "2021-04-03",
+    "info": {
+      "sent": 3025,
+      "bounce": 230,
+      "open24": 205,
+      "replies": 3,
+      "interest": 1,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2021-04-03"
+    }
+  },
+  {
+    "date": "2021-04-04",
+    "info": {
+      "sent": 3025,
+      "bounce": 196,
+      "open24": 232,
+      "replies": 7,
+      "interest": 0,
+      "negative": 5,
+      "neutral": 1,
+      "dt": "2021-04-04"
+    }
+  },
+  {
+    "date": "2021-04-05",
+    "info": {
+      "sent": 3025,
+      "bounce": 212,
+      "open24": 185,
+      "replies": 6,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 1,
+      "dt": "2021-04-05"
+    }
+  },
+  {
+    "date": "2021-04-06",
+    "info": {
+      "sent": 3025,
+      "bounce": 248,
+      "open24": 170,
+      "replies": 9,
+      "interest": 0,
+      "negative": 5,
+      "neutral": 0,
+      "dt": "2021-04-06"
+    }
+  },
+  {
+    "date": "2021-04-07",
+    "info": {
+      "sent": 3025,
+      "bounce": 219,
+      "open24": 166,
+      "replies": 11,
+      "interest": 1,
+      "negative": 5,
+      "neutral": 3,
+      "dt": "2021-04-07"
+    }
+  },
+  {
+    "date": "2021-04-08",
+    "info": {
+      "sent": 3025,
+      "bounce": 228,
+      "open24": 197,
+      "replies": 8,
+      "interest": 1,
+      "negative": 6,
+      "neutral": 0,
+      "dt": "2021-04-08"
+    }
+  },
+  {
+    "date": "2021-04-09",
+    "info": {
+      "sent": 2793,
+      "bounce": 193,
+      "open24": 230,
+      "replies": 5,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 1,
+      "dt": "2021-04-09"
+    }
+  },
+  {
+    "date": "2021-04-10",
+    "info": {
+      "sent": 2790,
+      "bounce": 177,
+      "open24": 209,
+      "replies": 6,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2021-04-10"
+    }
+  },
+  {
+    "date": "2021-04-11",
+    "info": {
+      "sent": 2949,
+      "bounce": 209,
+      "open24": 235,
+      "replies": 2,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2021-04-11"
+    }
+  },
+  {
+    "date": "2021-04-12",
+    "info": {
+      "sent": 2434,
+      "bounce": 166,
+      "open24": 216,
+      "replies": 6,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2021-04-12"
+    }
+  },
+  {
+    "date": "2021-04-13",
+    "info": {
+      "sent": 2917,
+      "bounce": 205,
+      "open24": 207,
+      "replies": 5,
+      "interest": 1,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2021-04-13"
+    }
+  },
+  {
+    "date": "2021-04-14",
+    "info": {
+      "sent": 3400,
+      "bounce": 218,
+      "open24": 262,
+      "replies": 11,
+      "interest": 2,
+      "negative": 7,
+      "neutral": 0,
+      "dt": "2021-04-14"
+    }
+  },
+  {
+    "date": "2021-04-15",
+    "info": {
+      "sent": 3585,
+      "bounce": 262,
+      "open24": 220,
+      "replies": 9,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 3,
+      "dt": "2021-04-15"
+    }
+  },
+  {
+    "date": "2021-04-16",
+    "info": {
+      "sent": 3815,
+      "bounce": 262,
+      "open24": 255,
+      "replies": 3,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2021-04-16"
+    }
+  },
+  {
+    "date": "2021-04-17",
+    "info": {
+      "sent": 3999,
+      "bounce": 275,
+      "open24": 287,
+      "replies": 8,
+      "interest": 1,
+      "negative": 5,
+      "neutral": 2,
+      "dt": "2021-04-17"
+    }
+  },
+  {
+    "date": "2021-04-18",
+    "info": {
+      "sent": 4219,
+      "bounce": 291,
+      "open24": 277,
+      "replies": 11,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2021-04-18"
+    }
+  },
+  {
+    "date": "2021-04-19",
+    "info": {
+      "sent": 4300,
+      "bounce": 293,
+      "open24": 340,
+      "replies": 10,
+      "interest": 2,
+      "negative": 3,
+      "neutral": 2,
+      "dt": "2021-04-19"
+    }
+  },
+  {
+    "date": "2021-04-20",
+    "info": {
+      "sent": 4367,
+      "bounce": 288,
+      "open24": 337,
+      "replies": 10,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 2,
+      "dt": "2021-04-20"
+    }
+  },
+  {
+    "date": "2021-04-21",
+    "info": {
+      "sent": 4399,
+      "bounce": 313,
+      "open24": 350,
+      "replies": 16,
+      "interest": 4,
+      "negative": 8,
+      "neutral": 2,
+      "dt": "2021-04-21"
+    }
+  },
+  {
+    "date": "2021-04-22",
+    "info": {
+      "sent": 3900,
+      "bounce": 258,
+      "open24": 311,
+      "replies": 10,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2021-04-22"
+    }
+  },
+  {
+    "date": "2021-04-23",
+    "info": {
+      "sent": 3990,
+      "bounce": 263,
+      "open24": 261,
+      "replies": 7,
+      "interest": 2,
+      "negative": 2,
+      "neutral": 1,
+      "dt": "2021-04-23"
+    }
+  },
+  {
+    "date": "2021-04-24",
+    "info": {
+      "sent": 4025,
+      "bounce": 269,
+      "open24": 248,
+      "replies": 8,
+      "interest": 2,
+      "negative": 2,
+      "neutral": 2,
+      "dt": "2021-04-24"
+    }
+  },
+  {
+    "date": "2021-04-25",
+    "info": {
+      "sent": 4105,
+      "bounce": 259,
+      "open24": 254,
+      "replies": 2,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 1,
+      "dt": "2021-04-25"
+    }
+  },
+  {
+    "date": "2021-04-26",
+    "info": {
+      "sent": 4150,
+      "bounce": 260,
+      "open24": 298,
+      "replies": 7,
+      "interest": 2,
+      "negative": 3,
+      "neutral": 1,
+      "dt": "2021-04-26"
+    }
+  },
+  {
+    "date": "2021-04-27",
+    "info": {
+      "sent": 4320,
+      "bounce": 277,
+      "open24": 295,
+      "replies": 12,
+      "interest": 2,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2021-04-27"
+    }
+  },
+  {
+    "date": "2021-04-28",
+    "info": {
+      "sent": 4400,
+      "bounce": 254,
+      "open24": 316,
+      "replies": 5,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2021-04-28"
+    }
+  },
+  {
+    "date": "2021-04-29",
+    "info": {
+      "sent": 4730,
+      "bounce": 240,
+      "open24": 295,
+      "replies": 6,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 1,
+      "dt": "2021-04-29"
+    }
+  },
+  {
+    "date": "2021-04-30",
+    "info": {
+      "sent": 4897,
+      "bounce": 250,
+      "open24": 383,
+      "replies": 5,
+      "interest": 1,
+      "negative": 2,
+      "neutral": 1,
+      "dt": "2021-04-30"
+    }
+  },
+  {
+    "date": "2021-05-01",
+    "info": {
+      "sent": 5228,
+      "bounce": 258,
+      "open24": 398,
+      "replies": 5,
+      "interest": 1,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2021-05-01"
+    }
+  },
+  {
+    "date": "2021-05-02",
+    "info": {
+      "sent": 4688,
+      "bounce": 290,
+      "open24": 408,
+      "replies": 8,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 2,
+      "dt": "2021-05-02"
+    }
+  },
+  {
+    "date": "2021-05-03",
+    "info": {
+      "sent": 2712,
+      "bounce": 185,
+      "open24": 299,
+      "replies": 12,
+      "interest": 3,
+      "negative": 6,
+      "neutral": 2,
+      "dt": "2021-05-03"
+    }
+  },
+  {
+    "date": "2021-05-04",
+    "info": {
+      "sent": 3863,
+      "bounce": 209,
+      "open24": 272,
+      "replies": 5,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 2,
+      "dt": "2021-05-04"
+    }
+  },
+  {
+    "date": "2021-05-05",
+    "info": {
+      "sent": 4631,
+      "bounce": 235,
+      "open24": 436,
+      "replies": 9,
+      "interest": 3,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2021-05-05"
+    }
+  },
+  {
+    "date": "2021-05-06",
+    "info": {
+      "sent": 4766,
+      "bounce": 248,
+      "open24": 393,
+      "replies": 14,
+      "interest": 2,
+      "negative": 11,
+      "neutral": 1,
+      "dt": "2021-05-06"
+    }
+  },
+  {
+    "date": "2021-05-07",
+    "info": {
+      "sent": 4770,
+      "bounce": 269,
+      "open24": 363,
+      "replies": 7,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 3,
+      "dt": "2021-05-07"
+    }
+  },
+  {
+    "date": "2021-05-08",
+    "info": {
+      "sent": 4770,
+      "bounce": 239,
+      "open24": 364,
+      "replies": 10,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 3,
+      "dt": "2021-05-08"
+    }
+  },
+  {
+    "date": "2021-05-09",
+    "info": {
+      "sent": 4770,
+      "bounce": 233,
+      "open24": 379,
+      "replies": 3,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2021-05-09"
+    }
+  },
+  {
+    "date": "2021-05-10",
+    "info": {
+      "sent": 4757,
+      "bounce": 273,
+      "open24": 410,
+      "replies": 10,
+      "interest": 3,
+      "negative": 4,
+      "neutral": 3,
+      "dt": "2021-05-10"
+    }
+  },
+  {
+    "date": "2021-05-11",
+    "info": {
+      "sent": 4757,
+      "bounce": 259,
+      "open24": 385,
+      "replies": 6,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2021-05-11"
+    }
+  },
+  {
+    "date": "2021-05-12",
+    "info": {
+      "sent": 4765,
+      "bounce": 466,
+      "open24": 386,
+      "replies": 12,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 2,
+      "dt": "2021-05-12"
+    }
+  },
+  {
+    "date": "2021-05-13",
+    "info": {
+      "sent": 4428,
+      "bounce": 394,
+      "open24": 308,
+      "replies": 13,
+      "interest": 4,
+      "negative": 6,
+      "neutral": 3,
+      "dt": "2021-05-13"
+    }
+  },
+  {
+    "date": "2021-05-14",
+    "info": {
+      "sent": 4289,
+      "bounce": 268,
+      "open24": 330,
+      "replies": 7,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 3,
+      "dt": "2021-05-14"
+    }
+  },
+  {
+    "date": "2021-05-15",
+    "info": {
+      "sent": 4296,
+      "bounce": 210,
+      "open24": 288,
+      "replies": 5,
+      "interest": 2,
+      "negative": 1,
+      "neutral": 2,
+      "dt": "2021-05-15"
+    }
+  },
+  {
+    "date": "2021-05-16",
+    "info": {
+      "sent": 4312,
+      "bounce": 237,
+      "open24": 271,
+      "replies": 3,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2021-05-16"
+    }
+  },
+  {
+    "date": "2021-05-17",
+    "info": {
+      "sent": 4305,
+      "bounce": 230,
+      "open24": 281,
+      "replies": 8,
+      "interest": 0,
+      "negative": 7,
+      "neutral": 1,
+      "dt": "2021-05-17"
+    }
+  },
+  {
+    "date": "2021-05-18",
+    "info": {
+      "sent": 4324,
+      "bounce": 248,
+      "open24": 247,
+      "replies": 8,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 2,
+      "dt": "2021-05-18"
+    }
+  },
+  {
+    "date": "2021-05-19",
+    "info": {
+      "sent": 4355,
+      "bounce": 235,
+      "open24": 255,
+      "replies": 10,
+      "interest": 2,
+      "negative": 6,
+      "neutral": 0,
+      "dt": "2021-05-19"
+    }
+  },
+  {
+    "date": "2021-05-20",
+    "info": {
+      "sent": 4402,
+      "bounce": 234,
+      "open24": 320,
+      "replies": 16,
+      "interest": 3,
+      "negative": 7,
+      "neutral": 4,
+      "dt": "2021-05-20"
+    }
+  },
+  {
+    "date": "2021-05-21",
+    "info": {
+      "sent": 4462,
+      "bounce": 237,
+      "open24": 352,
+      "replies": 10,
+      "interest": 4,
+      "negative": 4,
+      "neutral": 2,
+      "dt": "2021-05-21"
+    }
+  },
+  {
+    "date": "2021-05-22",
+    "info": {
+      "sent": 4051,
+      "bounce": 243,
+      "open24": 225,
+      "replies": 10,
+      "interest": 3,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2021-05-22"
+    }
+  },
+  {
+    "date": "2021-05-23",
+    "info": {
+      "sent": 4166,
+      "bounce": 208,
+      "open24": 267,
+      "replies": 8,
+      "interest": 2,
+      "negative": 5,
+      "neutral": 0,
+      "dt": "2021-05-23"
+    }
+  },
+  {
+    "date": "2021-05-24",
+    "info": {
+      "sent": 4158,
+      "bounce": 241,
+      "open24": 262,
+      "replies": 16,
+      "interest": 3,
+      "negative": 10,
+      "neutral": 1,
+      "dt": "2021-05-24"
+    }
+  },
+  {
+    "date": "2021-05-25",
+    "info": {
+      "sent": 4297,
+      "bounce": 227,
+      "open24": 214,
+      "replies": 8,
+      "interest": 1,
+      "negative": 3,
+      "neutral": 2,
+      "dt": "2021-05-25"
+    }
+  },
+  {
+    "date": "2021-05-26",
+    "info": {
+      "sent": 4376,
+      "bounce": 219,
+      "open24": 266,
+      "replies": 15,
+      "interest": 1,
+      "negative": 11,
+      "neutral": 3,
+      "dt": "2021-05-26"
+    }
+  },
+  {
+    "date": "2021-05-27",
+    "info": {
+      "sent": 4365,
+      "bounce": 229,
+      "open24": 246,
+      "replies": 9,
+      "interest": 3,
+      "negative": 5,
+      "neutral": 1,
+      "dt": "2021-05-27"
+    }
+  },
+  {
+    "date": "2021-05-28",
+    "info": {
+      "sent": 4386,
+      "bounce": 222,
+      "open24": 221,
+      "replies": 12,
+      "interest": 4,
+      "negative": 4,
+      "neutral": 2,
+      "dt": "2021-05-28"
+    }
+  },
+  {
+    "date": "2021-05-29",
+    "info": {
+      "sent": 4388,
+      "bounce": 214,
+      "open24": 193,
+      "replies": 6,
+      "interest": 1,
+      "negative": 3,
+      "neutral": 2,
+      "dt": "2021-05-29"
+    }
+  },
+  {
+    "date": "2021-05-30",
+    "info": {
+      "sent": 4380,
+      "bounce": 243,
+      "open24": 236,
+      "replies": 13,
+      "interest": 3,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2021-05-30"
+    }
+  },
+  {
+    "date": "2021-05-31",
+    "info": {
+      "sent": 4380,
+      "bounce": 234,
+      "open24": 283,
+      "replies": 9,
+      "interest": 1,
+      "negative": 7,
+      "neutral": 1,
+      "dt": "2021-05-31"
+    }
+  },
+  {
+    "date": "2021-06-01",
+    "info": {
+      "sent": 4363,
+      "bounce": 225,
+      "open24": 374,
+      "replies": 11,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2021-06-01"
+    }
+  },
+  {
+    "date": "2021-06-02",
+    "info": {
+      "sent": 4680,
+      "bounce": 195,
+      "open24": 432,
+      "replies": 10,
+      "interest": 1,
+      "negative": 7,
+      "neutral": 2,
+      "dt": "2021-06-02"
+    }
+  },
+  {
+    "date": "2021-06-03",
+    "info": {
+      "sent": 5247,
+      "bounce": 215,
+      "open24": 762,
+      "replies": 11,
+      "interest": 2,
+      "negative": 6,
+      "neutral": 3,
+      "dt": "2021-06-03"
+    }
+  },
+  {
+    "date": "2021-06-04",
+    "info": {
+      "sent": 2942,
+      "bounce": 165,
+      "open24": 408,
+      "replies": 13,
+      "interest": 1,
+      "negative": 10,
+      "neutral": 2,
+      "dt": "2021-06-04"
+    }
+  },
+  {
+    "date": "2021-06-05",
+    "info": {
+      "sent": 0,
+      "bounce": 25,
+      "open24": 18,
+      "replies": 1,
+      "interest": 1,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2021-06-05"
+    }
+  },
+  {
+    "date": "2021-06-06",
+    "info": {
+      "sent": 0,
+      "bounce": 1,
+      "open24": 0,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2021-06-06"
+    }
+  },
+  {
+    "date": "2021-06-28",
+    "info": {
+      "sent": 8,
+      "bounce": 0,
+      "open24": 0,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2021-06-28"
+    }
+  },
+  {
+    "date": "2021-06-29",
+    "info": {
+      "sent": 351,
+      "bounce": 6,
+      "open24": 109,
+      "replies": 1,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2021-06-29"
+    }
+  },
+  {
+    "date": "2021-06-30",
+    "info": {
+      "sent": 314,
+      "bounce": 8,
+      "open24": 88,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2021-06-30"
+    }
+  },
+  {
+    "date": "2021-07-01",
+    "info": {
+      "sent": 360,
+      "bounce": 17,
+      "open24": 85,
+      "replies": 2,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2021-07-01"
+    }
+  },
+  {
+    "date": "2021-07-02",
+    "info": {
+      "sent": 525,
+      "bounce": 19,
+      "open24": 72,
+      "replies": 3,
+      "interest": 2,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2021-07-02"
+    }
+  },
+  {
+    "date": "2021-07-03",
+    "info": {
+      "sent": 604,
+      "bounce": 33,
+      "open24": 55,
+      "replies": 0,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2021-07-03"
+    }
+  },
+  {
+    "date": "2021-07-04",
+    "info": {
+      "sent": 414,
+      "bounce": 8,
+      "open24": 36,
+      "replies": 1,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 1,
+      "dt": "2021-07-04"
+    }
+  },
+  {
+    "date": "2021-07-05",
+    "info": {
+      "sent": 653,
+      "bounce": 28,
+      "open24": 61,
+      "replies": 1,
+      "interest": 0,
+      "negative": 0,
+      "neutral": 0,
+      "dt": "2021-07-05"
+    }
+  },
+  {
+    "date": "2021-07-06",
+    "info": {
+      "sent": 1294,
+      "bounce": 54,
+      "open24": 93,
+      "replies": 2,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2021-07-06"
+    }
+  },
+  {
+    "date": "2021-07-07",
+    "info": {
+      "sent": 1629,
+      "bounce": 83,
+      "open24": 153,
+      "replies": 5,
+      "interest": 0,
+      "negative": 5,
+      "neutral": 0,
+      "dt": "2021-07-07"
+    }
+  },
+  {
+    "date": "2021-07-08",
+    "info": {
+      "sent": 1618,
+      "bounce": 63,
+      "open24": 145,
+      "replies": 3,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 2,
+      "dt": "2021-07-08"
+    }
+  },
+  {
+    "date": "2021-07-09",
+    "info": {
+      "sent": 1626,
+      "bounce": 72,
+      "open24": 136,
+      "replies": 2,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 1,
+      "dt": "2021-07-09"
+    }
+  },
+  {
+    "date": "2021-07-10",
+    "info": {
+      "sent": 2119,
+      "bounce": 98,
+      "open24": 181,
+      "replies": 9,
+      "interest": 2,
+      "negative": 5,
+      "neutral": 0,
+      "dt": "2021-07-10"
+    }
+  },
+  {
+    "date": "2021-07-11",
+    "info": {
+      "sent": 2329,
+      "bounce": 103,
+      "open24": 231,
+      "replies": 3,
+      "interest": 0,
+      "negative": 2,
+      "neutral": 0,
+      "dt": "2021-07-11"
+    }
+  },
+  {
+    "date": "2021-07-12",
+    "info": {
+      "sent": 2198,
+      "bounce": 84,
+      "open24": 315,
+      "replies": 7,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2021-07-12"
+    }
+  },
+  {
+    "date": "2021-07-13",
+    "info": {
+      "sent": 2530,
+      "bounce": 77,
+      "open24": 630,
+      "replies": 4,
+      "interest": 1,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2021-07-13"
+    }
+  },
+  {
+    "date": "2021-07-14",
+    "info": {
+      "sent": 3046,
+      "bounce": 99,
+      "open24": 817,
+      "replies": 3,
+      "interest": 2,
+      "negative": 1,
+      "neutral": 0,
+      "dt": "2021-07-14"
+    }
+  },
+  {
+    "date": "2021-07-15",
+    "info": {
+      "sent": 3352,
+      "bounce": 105,
+      "open24": 776,
+      "replies": 20,
+      "interest": 2,
+      "negative": 15,
+      "neutral": 2,
+      "dt": "2021-07-15"
+    }
+  },
+  {
+    "date": "2021-07-16",
+    "info": {
+      "sent": 3474,
+      "bounce": 143,
+      "open24": 435,
+      "replies": 9,
+      "interest": 1,
+      "negative": 6,
+      "neutral": 2,
+      "dt": "2021-07-16"
+    }
+  },
+  {
+    "date": "2021-07-17",
+    "info": {
+      "sent": 3557,
+      "bounce": 186,
+      "open24": 301,
+      "replies": 4,
+      "interest": 1,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2021-07-17"
+    }
+  },
+  {
+    "date": "2021-07-18",
+    "info": {
+      "sent": 4163,
+      "bounce": 182,
+      "open24": 380,
+      "replies": 10,
+      "interest": 1,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2021-07-18"
+    }
+  },
+  {
+    "date": "2021-07-19",
+    "info": {
+      "sent": 3502,
+      "bounce": 182,
+      "open24": 403,
+      "replies": 10,
+      "interest": 0,
+      "negative": 9,
+      "neutral": 0,
+      "dt": "2021-07-19"
+    }
+  },
+  {
+    "date": "2021-07-20",
+    "info": {
+      "sent": 4427,
+      "bounce": 167,
+      "open24": 428,
+      "replies": 17,
+      "interest": 1,
+      "negative": 8,
+      "neutral": 3,
+      "dt": "2021-07-20"
+    }
+  },
+  {
+    "date": "2021-07-21",
+    "info": {
+      "sent": 3925,
+      "bounce": 178,
+      "open24": 397,
+      "replies": 7,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2021-07-21"
+    }
+  },
+  {
+    "date": "2021-07-22",
+    "info": {
+      "sent": 4380,
+      "bounce": 181,
+      "open24": 441,
+      "replies": 11,
+      "interest": 1,
+      "negative": 8,
+      "neutral": 1,
+      "dt": "2021-07-22"
+    }
+  },
+  {
+    "date": "2021-07-23",
+    "info": {
+      "sent": 3988,
+      "bounce": 191,
+      "open24": 397,
+      "replies": 12,
+      "interest": 0,
+      "negative": 10,
+      "neutral": 2,
+      "dt": "2021-07-23"
+    }
+  },
+  {
+    "date": "2021-07-24",
+    "info": {
+      "sent": 4647,
+      "bounce": 216,
+      "open24": 406,
+      "replies": 9,
+      "interest": 2,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2021-07-24"
+    }
+  },
+  {
+    "date": "2021-07-25",
+    "info": {
+      "sent": 4465,
+      "bounce": 216,
+      "open24": 445,
+      "replies": 4,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2021-07-25"
+    }
+  },
+  {
+    "date": "2021-07-26",
+    "info": {
+      "sent": 3858,
+      "bounce": 215,
+      "open24": 403,
+      "replies": 11,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 3,
+      "dt": "2021-07-26"
+    }
+  },
+  {
+    "date": "2021-07-27",
+    "info": {
+      "sent": 3863,
+      "bounce": 210,
+      "open24": 391,
+      "replies": 10,
+      "interest": 2,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2021-07-27"
+    }
+  },
+  {
+    "date": "2021-07-28",
+    "info": {
+      "sent": 4265,
+      "bounce": 205,
+      "open24": 383,
+      "replies": 12,
+      "interest": 1,
+      "negative": 9,
+      "neutral": 0,
+      "dt": "2021-07-28"
+    }
+  },
+  {
+    "date": "2021-07-29",
+    "info": {
+      "sent": 3420,
+      "bounce": 170,
+      "open24": 310,
+      "replies": 6,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 2,
+      "dt": "2021-07-29"
+    }
+  },
+  {
+    "date": "2021-07-30",
+    "info": {
+      "sent": 2378,
+      "bounce": 106,
+      "open24": 249,
+      "replies": 8,
+      "interest": 0,
+      "negative": 7,
+      "neutral": 1,
+      "dt": "2021-07-30"
+    }
+  },
+  {
+    "date": "2021-07-31",
+    "info": {
+      "sent": 2292,
+      "bounce": 145,
+      "open24": 205,
+      "replies": 11,
+      "interest": 1,
+      "negative": 7,
+      "neutral": 2,
+      "dt": "2021-07-31"
+    }
+  },
+  {
+    "date": "2021-08-01",
+    "info": {
+      "sent": 3279,
+      "bounce": 175,
+      "open24": 289,
+      "replies": 8,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 3,
+      "dt": "2021-08-01"
+    }
+  },
+  {
+    "date": "2021-08-02",
+    "info": {
+      "sent": 2554,
+      "bounce": 204,
+      "open24": 269,
+      "replies": 10,
+      "interest": 3,
+      "negative": 5,
+      "neutral": 2,
+      "dt": "2021-08-02"
+    }
+  },
+  {
+    "date": "2021-08-03",
+    "info": {
+      "sent": 2298,
+      "bounce": 128,
+      "open24": 204,
+      "replies": 9,
+      "interest": 1,
+      "negative": 5,
+      "neutral": 2,
+      "dt": "2021-08-03"
+    }
+  },
+  {
+    "date": "2021-08-04",
+    "info": {
+      "sent": 2523,
+      "bounce": 143,
+      "open24": 221,
+      "replies": 3,
+      "interest": 0,
+      "negative": 1,
+      "neutral": 2,
+      "dt": "2021-08-04"
+    }
+  },
+  {
+    "date": "2021-08-05",
+    "info": {
+      "sent": 4718,
+      "bounce": 224,
+      "open24": 382,
+      "replies": 13,
+      "interest": 1,
+      "negative": 5,
+      "neutral": 3,
+      "dt": "2021-08-05"
+    }
+  },
+  {
+    "date": "2021-08-06",
+    "info": {
+      "sent": 5394,
+      "bounce": 285,
+      "open24": 442,
+      "replies": 9,
+      "interest": 1,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2021-08-06"
+    }
+  },
+  {
+    "date": "2021-08-07",
+    "info": {
+      "sent": 4539,
+      "bounce": 273,
+      "open24": 368,
+      "replies": 9,
+      "interest": 1,
+      "negative": 2,
+      "neutral": 4,
+      "dt": "2021-08-07"
+    }
+  },
+  {
+    "date": "2021-08-08",
+    "info": {
+      "sent": 4639,
+      "bounce": 275,
+      "open24": 468,
+      "replies": 14,
+      "interest": 0,
+      "negative": 10,
+      "neutral": 3,
+      "dt": "2021-08-08"
+    }
+  },
+  {
+    "date": "2021-08-09",
+    "info": {
+      "sent": 4706,
+      "bounce": 234,
+      "open24": 475,
+      "replies": 19,
+      "interest": 1,
+      "negative": 15,
+      "neutral": 0,
+      "dt": "2021-08-09"
+    }
+  },
+  {
+    "date": "2021-08-10",
+    "info": {
+      "sent": 3892,
+      "bounce": 222,
+      "open24": 393,
+      "replies": 9,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2021-08-10"
+    }
+  },
+  {
+    "date": "2021-08-11",
+    "info": {
+      "sent": 5629,
+      "bounce": 381,
+      "open24": 519,
+      "replies": 10,
+      "interest": 1,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2021-08-11"
+    }
+  },
+  {
+    "date": "2021-08-12",
+    "info": {
+      "sent": 4559,
+      "bounce": 231,
+      "open24": 393,
+      "replies": 17,
+      "interest": 3,
+      "negative": 12,
+      "neutral": 0,
+      "dt": "2021-08-12"
+    }
+  },
+  {
+    "date": "2021-08-13",
+    "info": {
+      "sent": 4117,
+      "bounce": 159,
+      "open24": 401,
+      "replies": 6,
+      "interest": 0,
+      "negative": 5,
+      "neutral": 1,
+      "dt": "2021-08-13"
+    }
+  },
+  {
+    "date": "2021-08-14",
+    "info": {
+      "sent": 4071,
+      "bounce": 184,
+      "open24": 398,
+      "replies": 8,
+      "interest": 0,
+      "negative": 7,
+      "neutral": 1,
+      "dt": "2021-08-14"
+    }
+  },
+  {
+    "date": "2021-08-15",
+    "info": {
+      "sent": 3674,
+      "bounce": 212,
+      "open24": 325,
+      "replies": 6,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 0,
+      "dt": "2021-08-15"
+    }
+  },
+  {
+    "date": "2021-08-16",
+    "info": {
+      "sent": 5686,
+      "bounce": 277,
+      "open24": 461,
+      "replies": 10,
+      "interest": 1,
+      "negative": 5,
+      "neutral": 1,
+      "dt": "2021-08-16"
+    }
+  },
+  {
+    "date": "2021-08-17",
+    "info": {
+      "sent": 4802,
+      "bounce": 255,
+      "open24": 441,
+      "replies": 8,
+      "interest": 0,
+      "negative": 7,
+      "neutral": 1,
+      "dt": "2021-08-17"
+    }
+  },
+  {
+    "date": "2021-08-18",
+    "info": {
+      "sent": 4756,
+      "bounce": 251,
+      "open24": 456,
+      "replies": 11,
+      "interest": 1,
+      "negative": 4,
+      "neutral": 3,
+      "dt": "2021-08-18"
+    }
+  },
+  {
+    "date": "2021-08-19",
+    "info": {
+      "sent": 5029,
+      "bounce": 285,
+      "open24": 464,
+      "replies": 8,
+      "interest": 3,
+      "negative": 2,
+      "neutral": 2,
+      "dt": "2021-08-19"
+    }
+  },
+  {
+    "date": "2021-08-20",
+    "info": {
+      "sent": 5182,
+      "bounce": 310,
+      "open24": 461,
+      "replies": 12,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 4,
+      "dt": "2021-08-20"
+    }
+  },
+  {
+    "date": "2021-08-21",
+    "info": {
+      "sent": 5227,
+      "bounce": 417,
+      "open24": 381,
+      "replies": 6,
+      "interest": 0,
+      "negative": 5,
+      "neutral": 1,
+      "dt": "2021-08-21"
+    }
+  },
+  {
+    "date": "2021-08-22",
+    "info": {
+      "sent": 4766,
+      "bounce": 316,
+      "open24": 406,
+      "replies": 8,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2021-08-22"
+    }
+  },
+  {
+    "date": "2021-08-23",
+    "info": {
+      "sent": 5011,
+      "bounce": 364,
+      "open24": 449,
+      "replies": 14,
+      "interest": 0,
+      "negative": 9,
+      "neutral": 2,
+      "dt": "2021-08-23"
+    }
+  },
+  {
+    "date": "2021-08-24",
+    "info": {
+      "sent": 5172,
+      "bounce": 324,
+      "open24": 435,
+      "replies": 10,
+      "interest": 1,
+      "negative": 5,
+      "neutral": 4,
+      "dt": "2021-08-24"
+    }
+  },
+  {
+    "date": "2021-08-25",
+    "info": {
+      "sent": 4941,
+      "bounce": 291,
+      "open24": 392,
+      "replies": 18,
+      "interest": 2,
+      "negative": 10,
+      "neutral": 4,
+      "dt": "2021-08-25"
+    }
+  },
+  {
+    "date": "2021-08-26",
+    "info": {
+      "sent": 4280,
+      "bounce": 287,
+      "open24": 339,
+      "replies": 9,
+      "interest": 1,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2021-08-26"
+    }
+  },
+  {
+    "date": "2021-08-27",
+    "info": {
+      "sent": 4815,
+      "bounce": 307,
+      "open24": 394,
+      "replies": 14,
+      "interest": 2,
+      "negative": 9,
+      "neutral": 0,
+      "dt": "2021-08-27"
+    }
+  },
+  {
+    "date": "2021-08-28",
+    "info": {
+      "sent": 5242,
+      "bounce": 287,
+      "open24": 394,
+      "replies": 9,
+      "interest": 0,
+      "negative": 4,
+      "neutral": 2,
+      "dt": "2021-08-28"
+    }
+  },
+  {
+    "date": "2021-08-29",
+    "info": {
+      "sent": 5263,
+      "bounce": 405,
+      "open24": 431,
+      "replies": 9,
+      "interest": 2,
+      "negative": 5,
+      "neutral": 2,
+      "dt": "2021-08-29"
+    }
+  },
+  {
+    "date": "2021-08-30",
+    "info": {
+      "sent": 4869,
+      "bounce": 252,
+      "open24": 517,
+      "replies": 16,
+      "interest": 2,
+      "negative": 12,
+      "neutral": 2,
+      "dt": "2021-08-30"
+    }
+  },
+  {
+    "date": "2021-08-31",
+    "info": {
+      "sent": 5191,
+      "bounce": 402,
+      "open24": 530,
+      "replies": 11,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 3,
+      "dt": "2021-08-31"
+    }
+  },
+  {
+    "date": "2021-09-01",
+    "info": {
+      "sent": 5558,
+      "bounce": 224,
+      "open24": 1206,
+      "replies": 39,
+      "interest": 4,
+      "negative": 26,
+      "neutral": 4,
+      "dt": "2021-09-01"
+    }
+  },
+  {
+    "date": "2021-09-02",
+    "info": {
+      "sent": 5519,
+      "bounce": 222,
+      "open24": 1280,
+      "replies": 47,
+      "interest": 7,
+      "negative": 34,
+      "neutral": 3,
+      "dt": "2021-09-02"
+    }
+  },
+  {
+    "date": "2021-09-03",
+    "info": {
+      "sent": 5143,
+      "bounce": 259,
+      "open24": 720,
+      "replies": 25,
+      "interest": 3,
+      "negative": 20,
+      "neutral": 0,
+      "dt": "2021-09-03"
+    }
+  },
+  {
+    "date": "2021-09-04",
+    "info": {
+      "sent": 4886,
+      "bounce": 503,
+      "open24": 397,
+      "replies": 10,
+      "interest": 2,
+      "negative": 4,
+      "neutral": 1,
+      "dt": "2021-09-04"
+    }
+  },
+  {
+    "date": "2021-09-05",
+    "info": {
+      "sent": 4278,
+      "bounce": 250,
+      "open24": 361,
+      "replies": 17,
+      "interest": 1,
+      "negative": 3,
+      "neutral": 1,
+      "dt": "2021-09-05"
+    }
+  },
+  {
+    "date": "2021-09-06",
+    "info": {
+      "sent": 4533,
+      "bounce": 299,
+      "open24": 455,
+      "replies": 10,
+      "interest": 3,
+      "negative": 6,
+      "neutral": 1,
+      "dt": "2021-09-06"
+    }
+  },
+  {
+    "date": "2021-09-07",
+    "info": {
+      "sent": 4445,
+      "bounce": 249,
+      "open24": 462,
+      "replies": 12,
+      "interest": 3,
+      "negative": 7,
+      "neutral": 1,
+      "dt": "2021-09-07"
+    }
+  },
+  {
+    "date": "2021-09-08",
+    "info": {
+      "sent": 4638,
+      "bounce": 295,
+      "open24": 428,
+      "replies": 12,
+      "interest": 0,
+      "negative": 10,
+      "neutral": 1,
+      "dt": "2021-09-08"
+    }
+  },
+  {
+    "date": "2021-09-09",
+    "info": {
+      "sent": 4746,
+      "bounce": 323,
+      "open24": 450,
+      "replies": 12,
+      "interest": 1,
+      "negative": 8,
+      "neutral": 1,
+      "dt": "2021-09-09"
+    }
+  },
+  {
+    "date": "2021-09-10",
+    "info": {
+      "sent": 4909,
+      "bounce": 310,
+      "open24": 424,
+      "replies": 8,
+      "interest": 0,
+      "negative": 6,
+      "neutral": 2,
+      "dt": "2021-09-10"
+    }
+  },
+  {
+    "date": "2021-09-11",
+    "info": {
+      "sent": 5026,
+      "bounce": 278,
+      "open24": 418,
+      "replies": 12,
+      "interest": 2,
+      "negative": 7,
+      "neutral": 1,
+      "dt": "2021-09-11"
+    }
+  },
+  {
+    "date": "2021-09-12",
+    "info": {
+      "sent": 5193,
+      "bounce": 302,
+      "open24": 449,
+      "replies": 9,
+      "interest": 0,
+      "negative": 5,
+      "neutral": 3,
+      "dt": "2021-09-12"
+    }
+  },
+  {
+    "date": "2021-09-13",
+    "info": {
+      "sent": 5302,
+      "bounce": 261,
+      "open24": 506,
+      "replies": 13,
+      "interest": 2,
+      "negative": 8,
+      "neutral": 1,
+      "dt": "2021-09-13"
+    }
+  },
+  {
+    "date": "2021-09-14",
+    "info": {
+      "sent": 5524,
+      "bounce": 289,
+      "open24": 562,
+      "replies": 13,
+      "interest": 0,
+      "negative": 10,
+      "neutral": 1,
+      "dt": "2021-09-14"
+    }
+  },
+  {
+    "date": "2021-09-15",
+    "info": {
+      "sent": 5982,
+      "bounce": 274,
+      "open24": 968,
+      "replies": 11,
+      "interest": 3,
+      "negative": 4,
+      "neutral": 3,
+      "dt": "2021-09-15"
+    }
+  },
+  {
+    "date": "2021-09-16",
+    "info": {
+      "sent": 6082,
+      "bounce": 268,
+      "open24": 1063,
+      "replies": 30,
+      "interest": 1,
+      "negative": 21,
+      "neutral": 2,
+      "dt": "2021-09-16"
+    }
+  },
+  {
+    "date": "2021-09-17",
+    "info": {
+      "sent": 5968,
+      "bounce": 232,
+      "open24": 713,
+      "replies": 27,
+      "interest": 4,
+      "negative": 15,
+      "neutral": 2,
+      "dt": "2021-09-17"
+    }
+  },
+  {
+    "date": "2021-09-18",
+    "info": {
+      "sent": 5473,
+      "bounce": 390,
+      "open24": 613,
+      "replies": 26,
+      "interest": 3,
+      "negative": 14,
+      "neutral": 5,
+      "dt": "2021-09-18"
+    }
+  },
+  {
+    "date": "2021-09-19",
+    "info": {
+      "sent": 5213,
+      "bounce": 216,
+      "open24": 631,
+      "replies": 13,
+      "interest": 1,
+      "negative": 9,
+      "neutral": 0,
+      "dt": "2021-09-19"
+    }
+  },
+  {
+    "date": "2021-09-20",
+    "info": {
+      "sent": 5395,
+      "bounce": 238,
+      "open24": 655,
+      "replies": 22,
+      "interest": 1,
+      "negative": 16,
+      "neutral": 2,
+      "dt": "2021-09-20"
+    }
+  },
+  {
+    "date": "2021-09-21",
+    "info": {
+      "sent": 2357,
+      "bounce": 82,
+      "open24": 202,
+      "replies": 4,
+      "interest": 0,
+      "negative": 3,
+      "neutral": 0,
+      "dt": "2021-09-21"
+    }
+  }
+]
