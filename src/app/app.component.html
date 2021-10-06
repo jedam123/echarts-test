@@ -1,2 +1,23 @@
 <router-outlet></router-outlet>
-<div echarts [options]="chartOption" class="demo-chart"></div>
+<div
+  echarts
+  [options]="chartOption"
+  class="demo-chart"
+  (chartInit)="onChartInit($event)"
+></div>
+<div
+  (click)="click()"
+  style="
+    cursor: pointer;
+    color: white;
+    padding: 5px 10px;
+    line-height: 20px;
+    font-size: 16px;
+    display: inline-block;
+    border-radius: 5px;
+    user-select: none;
+  "
+  [ngStyle]="{'background-color': showPositiveResp ? '#5470c6' : '#cccccc' }"
+>
+  custom positive responses
+</div>

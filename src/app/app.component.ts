@@ -19,7 +19,6 @@ export interface Info {
   neutral: string;
   dt: string;
 }
-
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -27,6 +26,9 @@ export interface Info {
 })
 export class AppComponent {
   title = 'test-lib';
+  public showPositiveResp = true;
+
+  private chartInstance: any;
   private fakeData: Observable<DataRow[]>;
   private datesArray: string[] = [];
   private bounceArray: any[] = [];
@@ -82,18 +84,22 @@ export class AppComponent {
       {
         name: 'positive responses',
         type: 'line',
+        smooth: true,
         stack: 'counts',
         data: this.interestArray,
       },
+
       {
         name: 'negative responses',
         type: 'line',
+        smooth: true,
         stack: 'counts',
         data: this.negativeArray,
       },
       {
         name: 'maybe later responses',
         type: 'line',
+        smooth: true,
         stack: 'counts',
         data: this.neutralArray,
       },
@@ -120,6 +126,7 @@ export class AppComponent {
       // },
     ],
   };
+
   constructor(private http: HttpClient) {
     this.fakeData = this.http.get<DataRow[]>(environment.fakeData);
   }
@@ -136,6 +143,19 @@ export class AppComponent {
         this.repliesArray.push(Number(aa.info.replies));
         this.sentArray.push(Number(aa.info.sent));
       });
+    });
+  }
+
+  onChartInit(e: any) {
+    this.chartInstance = e;
+  }
+
+  public click(): void {
+    const action = this.showPositiveResp ? 'legendUnSelect' : 'legendSelect';
+    this.showPositiveResp = !this.showPositiveResp;
+    this.chartInstance.dispatchAction({
+      type: action,
+      name: 'positive responses',
     });
   }
 }
